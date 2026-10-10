@@ -1,0 +1,24 @@
+# Full Semester Internship & Project Work (R23EC42PW)
+**Regulation**: R23 | **Semester**: 4-2 | **Credits**: 12.0 (0-0-24) | **Category**: PR
+
+## Course Structure & Units
+
+### Unit 1: Module 1: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
+DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
+B.Tech IV Year II Semester
+
+### Unit 2: Module 2: S.No. Category Title L T P Credits
+S.No. Category Title L T P Credits
+1 Internship & Project Work Full semester Internship
+
+### Unit 3: Module 3: &Project Work
+&Project Work
+0 0 24 12
+
+### Unit 4: Module 4: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
+DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
+Page 292 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+
+### Unit 5: Module 5: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
+DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
+Page 293 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)

@@ -1,0 +1,52 @@
+{
+  "semesters": [
+    {
+      "semester_label": "1-1",
+      "year_name": "I B.Tech I Semester",
+      "academic_year": "2023-2024",
+      "term": 1
+    },
+    {
+      "semester_label": "1-2",
+      "year_name": "I B.Tech II Semester",
+      "academic_year": "2023-2024",
+      "term": 2
+    },
+    {
+      "semester_label": "2-1",
+      "year_name": "II B.Tech I Semester",
+      "academic_year": "2024-2025",
+      "term": 1
+    },
+    {
+      "semester_label": "2-2",
+      "year_name": "II B.Tech II Semester",
+      "academic_year": "2024-2025",
+      "term": 2
+    },
+    {
+      "semester_label": "3-1",
+      "year_name": "III B.Tech I Semester",
+      "academic_year": "2025-2026",
+      "term": 1
+    },
+    {
+      "semester_label": "3-2",
+      "year_name": "III B.Tech II Semester",
+      "academic_year": "2025-2026",
+      "term": 2
+    },
+    {
+      "semester_label": "4-1",
+      "year_name": "IV B.Tech I Semester",
+      "academic_year": "2026-2027",
+      "term": 1
+    },
+    {
+      "semester_label": "4-2",
+      "year_name": "IV B.Tech II Semester",
+      "academic_year": "2026-2027",
+      "term": 2
+    }
+  ]
+}

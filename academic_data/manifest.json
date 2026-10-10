@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0.0",
+  "institution": "Narasaraopeta Engineering College",
+  "institution_code": "47",
+  "program": "Bachelor of Technology (B.Tech)",
+  "admission_batch": "2023-2027",
+  "regulation": "R23",
+  "duration_years": 4,
+  "semesters_count": 8,
+  "semester_labels": [
+    "1-1",
+    "1-2",
+    "2-1",
+    "2-2",
+    "3-1",
+    "3-2",
+    "4-1",
+    "4-2"
+  ],
+  "default_branch": "ECE",
+  "supported_branches": [
+    "ECE",
+    "CSE",
+    "IT",
+    "AIDS",
+    "EEE",
+    "MECH",
+    "CIVIL"
+  ],
+  "total_credits": 160,
+  "grading_scale": "10-point absolute",
+  "attendance_minimum_percentage": 75.0,
+  "attendance_condonation_threshold": 65.0,
+  "pass_percentage_aggregate": 40.0,
+  "pass_percentage_external": 35.0,
+  "verification_status": "Verified Official",
+  "last_updated": "2026-10-09"
+}

@@ -1,0 +1,6 @@
+subject_code,subject_name,classes_conducted,classes_attended,attendance_percentage,target_percentage
+23EC3T01,Electronic Devices and Circuits,54,46,85.19,75.0
+23EC3T02,Signals and Systems,50,42,84.00,75.0
+23EC3T03,Switching Theory and Logic Design,48,40,83.33,75.0
+23BS3T01,Probability Theory and Stochastic Processes,46,38,82.61,75.0
+23EC3L01,Electronic Devices and Circuits Lab,24,22,91.67,75.0

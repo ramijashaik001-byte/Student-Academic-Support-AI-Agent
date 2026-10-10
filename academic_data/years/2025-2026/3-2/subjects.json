@@ -1,0 +1,381 @@
+{
+  "academic_year": "2025-2026",
+  "semester": "3-2",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 23.0,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23EC3201",
+      "name": "VLSI Design",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "INTRODUCTION AND BASIC ELECTRICAL PROPERTIES OF MOS CIRCUITS:  VLSI Design",
+          "topics": "Flow, Introduction to IC technology, Fabrication process: nMOS, pMOS and CMOS. I ds versus V ds\nRelationships, Aspects of MOS transistor Threshold Voltage, MOS transistor Trans, Output Conductance and\nFigure of Merit. nMOS Inverter, Pull -up to Pull -down Ratio for nMOS inverter driven by another nMOS\ninverter, and through one or more pass transistors. Alternative forms of pull-up, The CMOS Inverter, Latch-up\nin CMOS circuits, Bi -CMOS Inverter, Comparison between CMOS and BiCMOS technology, MOS Layers,\nStick Diagrams, Design Rules and Layout, Layout Diagrams for MOS circuits"
+        },
+        {
+          "unit": 2,
+          "title": "BASIC CIRCUIT CONCEPTS: Sheet Resistance, Sheet Resistance concept applied to MOS transistors and",
+          "topics": "Inverters, Area Capacitance of Layers, Standard unit of capacitance, some area Capacitance Calculations, The\nDelay Unit, Inverter Delays, driving large capacitive loads, Propagation Delays, Wiring Capacitances, Choice\nof layers.\nSCALING OF MOS CIRCUITS: Scaling models and scaling factors, Scaling factors for device parameters,\nLimitations of scaling, Limits due to sub threshold currents, Limits on logic levels and supply voltage due to\nnoise and current density."
+        },
+        {
+          "unit": 3,
+          "title": "BASIC BUILDING BLOCKS OF ANALOG IC DESIGN: Regions of operation of MOSFET, Modelling of",
+          "topics": "transistor, body bias effect, biasing styles, single stage amplifier with resistive load, single stage amplifier with\ndiode connected load, Common Source amplifier, Common Drain amplifier, Common Gate amplifier,  current\nsources and sinks."
+        },
+        {
+          "unit": 4,
+          "title": "CMOS COMBINATIONAL AND SEQUENTIAL LOGIC CIRCUIT DESIGN:",
+          "topics": "Static CMOS Design: Complementary CMOS, Rationed Logic, Pass-Transistor Logic, design of Half adder,\nfull adder, multiplexer, decoder.Dynamic CMOS Design:  Dynamic Logic-Basic Principles, Speed and Power\nDissipation of Dynamic Logic, Issues in Dynamic Design, Cascading Dynamic Gates , Design examples of\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nsequential circuits: Cross coupled NAND and NOR flipflops, D flipflop,  SR JK flip flop, SR Master Slave flip\nflop."
+        },
+        {
+          "unit": 5,
+          "title": "FPGA DESIGN: FPGA design flow, Basic FPGA architecture, FPGA Technologies, Introduction to FPGA",
+          "topics": "Families.\nINTRODUCTION TO ADVANCED TECHNOLOGIES: Giga-scale dilemma, Short channel effects, High-\nk, Metal Gate Technology, FinFET, TFET."
+        }
+      ]
+    },
+    {
+      "code": "R23EC3202",
+      "name": "Microprocessors & Microcontrollers",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction: Basic Microprocessor architecture, Harvard and Von Neumann architectures with",
+          "topics": "examples, Microprocessor"
+        },
+        {
+          "unit": 2,
+          "title": "8086 Programming: instruction set, addressing modes, assembler directives, programming with",
+          "topics": "an assembler, writing simple programs with an assembler, stack and stack structure, interrupts\nand interrupt service routines 8086 system,"
+        },
+        {
+          "unit": 3,
+          "title": "8086 Interfacing: Semiconductor memories interfacing (RAM, ROM), Intel 8255 programmable",
+          "topics": "peripheral interface, Interfacing switches and LEDS, Interfacing seven segment displays, Intel\n8251 USART architecture and interfacing, Intel 8237a DMA controller, stepper motor, A/D and\nD/A converters, Need for 8259 programmable interrupt controllers."
+        },
+        {
+          "unit": 4,
+          "title": "Intel 8051 MICROCONTROLLER and Interfacing",
+          "topics": "Architecture, Hardware concepts, Input/output ports and circuits, external\nmemory, counters/timers, serial data input/output, interrupts. Assembly language programming:\nInstructions, addressing modes, simple programs. Interfacing to 8051: A/D and D/A Convertors,\nStepper motor interface, keyboard, LCD Interfacing, Traffic light control."
+        },
+        {
+          "unit": 5,
+          "title": "ersus Microcontroller Unit, History and classifications of",
+          "topics": "Microprocessor and Microcontroller.\n8086 Architecture: register organization, internal architecture of 8086, pin description of 8086,\nminimum mode and maximum mode of 8086 operation and timing diagrams."
+        }
+      ]
+    },
+    {
+      "code": "R23EC3203",
+      "name": "Digital Signal Processing",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction: Signals, Systems, and Signal Processing, Classification of Signals, The Concept of",
+          "topics": "Frequency in Continuous Time and Discrete Time Signals\nDiscrete Time Signals and Systems: Discrete Time Signals, Discrete Time Systems, Analysis of Discrete\nTime Linear Time Invariant Systems, Discrete Time Systems Described by Difference Equations,\nImplementation of Discrete Time Systems, Correlation of Discrete Time Signals.\nFrequency Analysis of Signals: Frequency Analysis of Continuous Time Signals, Frequency Analysis of\nDiscrete Time Signals, Frequency Domain and Time Domain Signal Properties, Properties of the Fourier\nTransform for Discrete Time Signals. Frequency Domain Analysis of LTI Systems: Frequency domain\ncharacteristics of LTI systems, Frequency response of LTI systems."
+        },
+        {
+          "unit": 2,
+          "title": "The z-Transform and Its Applications to the Analysis of LTI Systems : The z -Transform, Properties,",
+          "topics": "Rational z Transforms, Inversion of the z -Transform, Analysis of Linear Time Invariant Systems in the z -\nDomain, The One sided z-Transform. (Review only for entirez - Transform topic).\nThe Discrete Fourier Transform: Its Properties and Applications : Frequency Domain Sampling: The\nDiscrete Fourier Transform, Properties of the DFT, Linear Filtering Methods Based on the DFT, Frequency\nAnalysis of Signals Using DFT."
+        },
+        {
+          "unit": 3,
+          "title": "Efficient Computation of the DFT: Fast Fourier Transform Algorithms : Direct Computation of the",
+          "topics": "DFT, Radix-2 FFT Algorithms.\nImplementation of Discrete Time Systems : Structures for the Realization of Discrete Time Systems,\nStructures for FIR Systems : Direct Form Structure, Cascade Form Structures, Frequency Sampling\nStructures.\nStructures for IIR Systems : Discrete Form Structures, Signal Flow Graphs and Transposed Structures,\nCascade Form Structures, Parallel Form Structures.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 4,
+          "title": "Design of Digital Filters : General Considerations: Causality and Its Implications, Characteristics of",
+          "topics": "Practical Frequency Selective Filters.\nDesign of FIR Filters : Symmetric and Antisymmetric FIR Filters, Design of Linear Phase FIR Filters\nUsing Windows, Design of Linear Phase FIR Filters by the Frequency Sampling Method.\nDesign of IIR Filters From Analog Filters: IIR Filter Design by Approximation of Derivatives, IIR Filter\nDesign by Impulse Invariance, IIR Filter Design by the Bilinear Transformation.\nFrequency Transformations: Frequency Transformations in the Analog Domain, Frequency\nTransformations in the Digital Domain."
+        },
+        {
+          "unit": 5,
+          "title": "Introduction to programmable DSPs : Multiplier and Multiplier Accumulator, Modified bus structures",
+          "topics": "and memory access schemes in P -DSPs ,Multiple Access Memory, Multiported memory, VLIW\narchitecture, Pipelining, Special addressing modes, On-Chip Peripherals.\nArchitecture of TMS320C5X: Introduction, Bus Structure, Central Arithmetic Logic Unit, Auxiliary\nRegister ALU, Index Register, Auxiliary Register  Compare Register, Block Move Address Register,\nBlock Repeat Registers, Parallel Logic Unit, Memory mapped registers, program controller, some flags in\nthe status registers, On- chip memory, On-chip peripherals.TMS320C5X Assembly Language Instructions."
+        }
+      ]
+    },
+    {
+      "code": "R23EC3204",
+      "name": "Professional Elective - II (Analog IC Design / Satellite / Smart Instrumentation / ML)",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "MOS Devices and Modelling : The MOS Transistor, Passive Components - Capacitor & Resistor,",
+          "topics": "Integrated circuit Layout, CMOS Device Modelling - Simple MOS Large -Signal Model, Other Model\nParameters, Small-Signal Model for the MOS Transistor, Computer Simulation Models, Sub -threshold\nMOS Model."
+        },
+        {
+          "unit": 2,
+          "title": "Analog CMOS Sub-Circuits:",
+          "topics": "MOS Switch, MOS Diode, MOS Active Resistor, Current Sinks and Sources, Current Mirrors -Current\nmirror with Beta Helper, Degeneration, Cascode current Mirror and Wilson Current Mirror, Current and\nV oltage References, Band gap Reference."
+        },
+        {
+          "unit": 3,
+          "title": "CMOS Amplifiers:",
+          "topics": "Inverters, Differential Amplifiers, Cascode Amplifiers, Current Amplifiers, Output Amplifiers, High Gain\nAmplifiers Architectures. CMOS Operational Amplifiers: Design of CMOS Op Amps, Compensation of\nOp Amps, Design of Two -Stage Op Amps, Power - Supply Reje ction Ratio of Two -Stage Op Amps,\nCascode Op Amps, Measurement Techniques of OP Amp."
+        },
+        {
+          "unit": 4,
+          "title": "Comparators: Characterization of Comparator, Two-Stage, Open-Loop Comparators, Other Open -Loop",
+          "topics": "Comparators, Improving the Performance of Open-Loop Comparators, Discrete- Time Comparators."
+        },
+        {
+          "unit": 5,
+          "title": "Oscillators & Phase-Locked Loops: General Considerations, Ring Oscillators, LC Oscillators, V oltage",
+          "topics": "Controlled Oscillators. Simple PLL, Charge Pump PLLs, Non-Ideal Effects in PLLs, Delay Locked Loops,\nApplications."
+        }
+      ]
+    },
+    {
+      "code": "R23EC3208",
+      "name": "Professional Elective - III (Biomedical Instrumentation / Microwave / Embedded / AI)",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction:",
+          "topics": "Factors to be considered in the design of medical instrumentation systems, Basic objectives of\nmedical instrumentation system, Physiological systems of human body, Sources of Bioelectric\npotentials: Resisting and Action Potentials, Propagation of Action Potentials, The Bioelectric\nPotentials. Electrodes: Electrode theory, Bio Potential Electrodes, Biochemical Transducers,\nIntroduction to bio-medical signals."
+        },
+        {
+          "unit": 2,
+          "title": "The Cardiovascular System:",
+          "topics": "The Heart and Cardiovascular System, The Heart, Blood Pressure, Characteristics of Blood Flow,\nHeart Sounds, Cardio Vascular Measurements, Electrocardiography, Measurement of Blood\nPressure, Measurement of Blood Flow and Cardiac output, Plethysmo graphy, M easurement of\nHeart Sounds, Event detection, PQRS & T -Waves inECG, the first & second Heart beats, ECG\nrhythm analysis, the di-crotic notch in the carotid pulse detection of events and waves, analysis\nof exercise ECG, analysis of event related potentials, correlation analysis of EEG channels,\ncorrelation of muscular contraction."
+        },
+        {
+          "unit": 3,
+          "title": "Patient Care & Monitory and Measurements in Respiratory System:",
+          "topics": "The elements of Intensive Care Monitory, Diagnosis, Calibration and reparability of Patient\nMonitoring equipment, other instrumentation for monitoring patients, pace makers,\ndefibrillators, the physiology of respiratory system, tests and instrumentation fo r mechanics of\nbreathing, respiratory theory equipment, analysis of respiration."
+        },
+        {
+          "unit": 4,
+          "title": "Bio telemetry and Instrumentation for the Clinical Laboratory",
+          "topics": "Introduction to bio telemetry, Physiological parameters adaptable to bio telemetry, the\ncomponents of bio telemetry system, implantable units, applications of telemetry in patient care\n- The blood, tests on blood cells, chemical test, automation of chemical tests."
+        },
+        {
+          "unit": 5,
+          "title": "X -ray and radioisotope instrumentation and electrical safety of medical",
+          "topics": "equipment: Generation of Ionizing radiation, instrumentation for diagnostic X -rays, special\ntechniques, instrumentation for the medical use of radioisotopes, radiation therapy -\nPhysiological effects of electrical current, shock Hazards from electrical equipment, Methods of\naccident prevention, Modern Imaging Systems: Tomography, Magnetic Resonance Imaging\nSystem, Ultrasonic Imaging System, Medical Thermography."
+        }
+      ]
+    },
+    {
+      "code": "R23ECOE2",
+      "name": "Open Elective - II",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "OE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Operational Amplifier: Ideal and Practical Op -Amp, Op -Amp Characteristics, DC and AC Characteristics,",
+          "topics": "features of 741 Op-Amp, Modes of Operation -Inverting, Non-Inverting, Differential, Instrumentation Amplifier,\nAC Amplifier, Differentiators and Integrators, Comparators, Schmitt Trigger, Introduction to V oltage Regulators,\nFeatures of 723 Regulator, Three Terminal V oltage Regulators."
+        },
+        {
+          "unit": 2,
+          "title": "Op-Amp, IC-555 & IC565 Applications: Introduction to Active Filters, Characteristics of Bandpass, Band reject",
+          "topics": "and All Pass Filters, Analysis of 1 st order LPF & HPF Butterworth Filters, Waveform Generators - Triangular,\nSawtooth, Square Wave, IC555 Timer -Functional Diagram, Monostable and Astable Operations, Applications,\nIC565 PLL-Block Schematic, principle and Applications."
+        },
+        {
+          "unit": 3,
+          "title": "Data Converters: Introduction, Basic DAC techniques, Different types of DACs -Weighted resistor DAC, R-2R",
+          "topics": "ladder DAC, Inverted R -2R DAC, Different Types of ADCs - Parallel Comparator Type ADC, Counter Type\nADC, Successive Approximation ADC and Dual Slope ADC, DAC and ADC Specifications."
+        },
+        {
+          "unit": 4,
+          "title": "Combinational Logic ICs: Specifications and Applications of TTL -74XX & CMOS 40XX Series ICs - Code",
+          "topics": "Converters, Decoders, LED & LCD Decoders with Drivers, Encoders, Priority Encoders, Multiplexers, De -\nmultiplexers, Priority Generators/Checkers, Parallel Binary Adder/Subtractor, Magnitude Comparators."
+        },
+        {
+          "unit": 5,
+          "title": "Sequential Logic IC's and Memories: Familiarity with commonly available 74XX & CMOS40XX Series ICs -",
+          "topics": "All Types of Flip-flops, Synchronous Counters, Decade Counters, Shift Registers.\nMemories - ROM Architecture, Types of ROMS & Applications, RAM Architecture, Static & Dynamic RAMs."
+        }
+      ]
+    },
+    {
+      "code": "R23EC32L1",
+      "name": "VLSI Design Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Design and implementation of an inverter",
+          "topics": "1. Design and implementation of an inverter\n2. Design and implementation of universal gates"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 3. Design and implementation of full adder",
+          "topics": "3. Design and implementation of full adder\n4. Design and implementation of full Subtractor"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 5. Design and implementation of RS-latch",
+          "topics": "5. Design and implementation of RS-latch\n6. Design and implementation of D-latch"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 7. Design and implementation asynchronous counter",
+          "topics": "7. Design and implementation asynchronous counter\n8. Design and Implementation of static RAM cell"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 9. Design and Implementation of differential amplifier",
+          "topics": "9. Design and Implementation of differential amplifier\n10. Design and Implementation of ring oscillator\n1. Cadence/Synopsys/Mentor Graphics/Tanner/Microwind or any Industry Standard EDA Tools\n2. Personal computer with necessary peripherals."
+        }
+      ]
+    },
+    {
+      "code": "R23EC32L2",
+      "name": "Microprocessors & Microcontrollers Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Programs for 16 -bit arithmetic operations (using Various Addressing Modes).",
+          "topics": "1. Programs for 16 -bit arithmetic operations (using Various Addressing Modes).\n2. Program for sorting an array.\n3. Program for Factorial of given n-numbers.\n4. Interfacing ADC to8086\n5. Interfacing DAC to8086.\n6. Interfacing stepper motor to8086.\n7. Interfacing Seven-Segment display to 8086"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 8. Keyboard interface with 8086",
+          "topics": "8. Keyboard interface with 8086\n1. Finding number of 1's and number of 0's in a given 8-bit number\n2. Average of n-numbers.\n3. Program and verify Timer/ Counter in8051.\n4. Interfacing Traffic Light Controller to8051.\n5. UART operation in8051\n6. Interfacing LCD to8051."
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 7. Interfacing temperature sensor (LM 35) with 8051",
+          "topics": "7. Interfacing temperature sensor (LM 35) with 8051\n8. Stepper motor control with 8051\n1. Write an assembly program to multiply of 2 16-bit binary numbers.\n2. Write an assembly program to find the sum of first 10 integers numbers.\n3. Write a program to toggle LED every second using timer interrupt.\n4. PWM signal generation\n5. Analog signal measurement (ADC)"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 6. Interfacing with serial communication (UART)",
+          "topics": "6. Interfacing with serial communication (UART)\n1. Regulated Power supplies\n2. Analog/Digital Storage Oscilloscopes\n3. 8086 Microprocessor kits\n4. 8051 microcontroller kits\n5. ADC module, DAC module\n6. Stepper motor module"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 7. Key board module",
+          "topics": "7. Key board module\n8. LED, 7-SegemtUnits, LCD display modules\n9. Temperature sensor module\n10. Digital Multimeters\n11. ROM/RAM Interface module\n12. Bread Board etc.\n13. ARM CORTEX M3\n14. KEIL MDKARM, Digital Multi-meters"
+        }
+      ]
+    },
+    {
+      "code": "R23EC32L3",
+      "name": "Machine Learning Lab",
+      "credits": 2.0,
+      "l": 0,
+      "t": 1,
+      "p": 2,
+      "type": "skill",
+      "cat": "SEC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "The Fundamentals of Machine Learning, Learning from experience, Machine learning tasks,",
+          "topics": "Training data and test data, Performance measures, bias, and variance, An introduction to scikit -\nlearn ,Installing scikit -learn , Installing scikit -learn on Windows, Installing scikit -learn on Linux\n,Installing scikit -learn on OS X, Verifying the installation, Installing pandas and matplotlib\nLinear Regression: Simple linear regression, Evaluating the fitness of a model with a cost function\n,Solving ordinary least squares for simple linear regression, Evaluating the model, Multiple linear\nregression, Polynomial regression, Regularization, Applying linear regression, Exploring the data,\nFitting and evaluating the model, Fitting models with gradient descent"
+        },
+        {
+          "unit": 2,
+          "title": "Extracting features from categorical variables, Extracting features from text, The bag -of-words",
+          "topics": "representation, Stop-word filtering, Stemming and lemmatization, Extending bag-of-words with TF-\nIDF weights, Space -efficient feature vectorizing with the hashin g trick, Extracting features from\nimages, Extracting features from pixel intensities, Extracting points of interest as features ,SIFT and\nSURF, Data standardization\nBinary classification with logistic regression, Spam filtering, Binary classification performance\nmetrics, Accuracy, Precision and recall ,Calculating the F1 measure, ROCAUC, Tuning models with\ngrid search, Multi -class classification, Multi -class classification performance metrics, Multi -label\nclassification and problem transformation, Multi-label classification performance metrics"
+        },
+        {
+          "unit": 3,
+          "title": "Decision trees ,Training decision trees, Selecting the questions, Information gain, Giniimpurity,",
+          "topics": "Decision trees with scikit-learn, Treeensembles, The advantages and disadvantages of decision trees\nClustering with the K -Means algorithm, Localoptima, The elbow method, Evaluating clusters,\nImage quantization, Clustering to learn features."
+        },
+        {
+          "unit": 4,
+          "title": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 5,
+          "title": "Kernels and the kernel trick, Maximum margin classification and support vectors, Classifying",
+          "topics": "characters in scikit-learn, Classifying handwritten digits, Classifying characters in natural images ,\nNonlinear decision boundaries, Feed forward and feedback artificial neural networks, Multi layer\nperceptron, Minimizing the cost function, Forward propagation, Back propagation, Approximating\nXOR with Multilayer perceptron, Classifying handwritten digits"
+        }
+      ]
+    },
+    {
+      "code": "R23EC32MC",
+      "name": "Research Methodology and IPR",
+      "credits": 0.0,
+      "l": 2,
+      "t": 0,
+      "p": 0,
+      "type": "audit",
+      "cat": "AC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Meaning of research problem, Sources of research problem, Criteria Characteristics of a good research",
+          "topics": "problem, Errors in selecting a research problem, Scope and objectives of research problem, Approaches of\ninvestigation of solutions for research problem, data collection, analysis, interpretation, Necessary\ninstrumentations"
+        },
+        {
+          "unit": 2,
+          "title": "Effective literature studies approaches, analysis Plagiarism, Research ethics, Effective technical writing, how",
+          "topics": "to write report, Paper Developing a Research Proposal, Format of research proposal, a presentation and\nassessment by a review committee"
+        },
+        {
+          "unit": 3,
+          "title": "Nature of Intellectual Property: Patents, Designs, Trademarks and Copyright. Process of Patenting and",
+          "topics": "Development: technological research, innovation, patenting, development. International Scenario:\nInternational cooperation on Intellectual Property. Procedure for grants of patents, Patenting under PCT"
+        },
+        {
+          "unit": 4,
+          "title": "Patent Rights: Scope of Patent Rights, Licensing and transfer of technology, Patent information and databases,",
+          "topics": "Geographical Indications."
+        },
+        {
+          "unit": 5,
+          "title": "New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of Biological",
+          "topics": "Systems, Computer Software etc, Traditional knowledge Case Studies, IPR and IITs"
+        }
+      ]
+    }
+  ]
+}

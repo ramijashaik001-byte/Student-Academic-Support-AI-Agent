@@ -1,0 +1,11 @@
+# Open Elective - II (R23ECOE2) - Unit 1
+
+Subject: Open Elective - II (R23ECOE2)
+Semester: 3-2 | Credits: 3.0 | Category: OE
+Unit 1: Operational Amplifier: Ideal and Practical Op -Amp, Op -Amp Characteristics, DC and AC Characteristics,
+Syllabus Topics:
+features of 741 Op-Amp, Modes of Operation -Inverting, Non-Inverting, Differential, Instrumentation Amplifier,
+AC Amplifier, Differentiators and Integrators, Comparators, Schmitt Trigger, Introduction to V oltage Regulators,
+Features of 723 Regulator, Three Terminal V oltage Regulators.
+Course Learning Outcome: CO1: Understand and apply concepts of Operational Amplifier: Ideal and Practical Op -Amp, Op -Amp Characteristics, DC and AC Characteristics,
+Institution: Narasaraopeta Engineering College (Autonomous), Regulation: R23

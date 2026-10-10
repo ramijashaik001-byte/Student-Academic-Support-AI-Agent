@@ -1,0 +1,344 @@
+{
+  "academic_year": "2026-2027",
+  "semester": "4-1",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 21.0,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23EC4101",
+      "name": "Cellular & Mobile Communications",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "CELLULAR SYSTEMS : Limitations of Conventional System, Basic Cellular Mobile",
+          "topics": "System, First, second, third and fourth and  Generation cellular wireless systems. Operation of\nCellular System. Uniqueness of Mobile Radio Environment -Fading, coherence bandwidth,\nDoppler Spread. Fundamentals of cellular Radio System Design: concept of frequency reuse\nchannels, Co-channel Interference, Co-channel Interference Reduction Factor, desired C/I from a\nnormal case in a Omni directional Antenna system. Trunking and grade of service"
+        },
+        {
+          "unit": 2,
+          "title": "CO-CHANNEL & NON-CO-CHANNEL INTERFERENCE: Measurement of Real",
+          "topics": "Time Co-Channel Interference, design of Antenna system, Antenna parameters and their effects,\ndiversity techniques: Space Diversity, Polarization diversity, frequency diversity and time\ndiversity. Non -co channel interference -adjacent channel interference, Near End far end\ninterference, effect on coverage and interference by power decrease, antenna height decrease"
+        },
+        {
+          "unit": 3,
+          "title": "FREQUENCY MANAGEMENT AND CHANNEL ASSIGNMENT  : Numbering and",
+          "topics": "grouping, setup access and paging channels ,channel assignments to cell sites and mobile units,\nchannel sharing and borrowing, sectorization, overlaid cells, non fixed channel assignment.\nCELL COVERAGE FOR SIGNAL AND TRAFFIC: Signal reflections in flat and hilly terrain,\neffect of human made structures, phase difference between direct and reflected paths, straight line\npath loss slope, general formula for mobile propagation over water and flat open area, near and\nlong distance propagation, antenna height gain, form of a point to point model."
+        },
+        {
+          "unit": 4,
+          "title": "CELLSITE AND MOBILE ANTENNAS: Sum and difference patterns and their synthesis, omni",
+          "topics": "directional antennas, directional antennas for interference reduction, space diversity antennas,\numbrella pattern antennas, minimum separation of cell site antennas, high gain antennas.\nHANDOFFS: Handoff Initiation, types of handoff, delaying handoff, advantages of Handoff,\npower difference handoff, forced handoff, mobile assisted and soft and Hard handoffs. Intersystem\nand Intrasystem handoffs, dropped call rates and their evaluation.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 5,
+          "title": "DIGITAL CELLULAR NETWORKS AND MULTIPLE ACCESS SCHEMES: GSM",
+          "topics": "architecture, GSM channels, TDMA, FDMA, and CDMA. Introduction to MIMO systems\nPrinciples of CDMA cellular systems, Principles of OFDM based broadband wireless systems, 4G\nLTE basics - OFDM, and OFDMA, Generalized framework for Filtered OFDM and FBMC,\nIntroduction of 5G."
+        }
+      ]
+    },
+    {
+      "code": "R23EC4102",
+      "name": "Management Science",
+      "credits": 2.0,
+      "l": 2,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "MC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "CONCEPTS OF MANAGEMENT AND ORGANISATION: Functions of management,",
+          "topics": "evolution of management thought, Taylor's scientific management, fayol's principles of\nmanagement, Hertzberg's Maslow's hierarchy of human needs, theory x and y, Hawthorne\nexperiment, morale, motivation, working environmental condi tions, systems approach to\nmanagement.\nDESIGNING ORGANISATIONAL STRUCTURES: Basic concepts related to organisation -\ndepartmentation and decentralization, types of organization structures."
+        },
+        {
+          "unit": 2,
+          "title": "PLANT LOCATION: Definition, factors affecting the plant location, comparison of rural and",
+          "topics": "urban sites, methods for selection of plant - matrix approach. Plant layout - definition, objectives,\ntypes of plant layout, various data analyzing forms travel chart.\nWORK STUDY: Definition, objectives, method study - definition, objectives, steps involved -\nvarious types of associated charts, difference between micro motion and memo motion studies.\nWork measurement - definition, time study, steps involved, equipment, different metho ds of\nperformance rating, allowances, standard time calculation. Work Sampling - definition, steps\ninvolved, standard time calculations, and differences with time study."
+        },
+        {
+          "unit": 3,
+          "title": "INTRODUCTION TO PERT / CPM : Project management, network modelling-probabilistic",
+          "topics": "model, various types of activity times estimation, programme evaluation review techniques,\ncritical path, probability of completing the project, deterministic model, critical path method\n(CPM), critical path calculation, crashing of simple of networks.\nINSPECTION AND QUALITY CONTROL : Types of inspections, statistical quality control,\ntechniques, variables and attributes, assignable and non assignable causes, variable control charts,\nand R charts, attributes control charts, p charts and c charts. Acceptance sampling plan, single\nsampling and double sampling plans, OC curves. Introduction to TQM - quality circles, ISO 9000\nseries procedures."
+        },
+        {
+          "unit": 4,
+          "title": "MATERIALS MANAGEMEN T: Objectives, inventory functions, types, associated costs,",
+          "topics": "inventory classification techniques-ABC and VED analysis. Inventory control systems, continuous\nreview system, periodical review system. Stores management and stores records. Purchase\nmanagement, duties of purchase of manager, associated forms.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 5,
+          "title": "INTRODUCTION TO HUMAN RESOURCE MANAGEMENT: Functions of HRM, job",
+          "topics": "evaluation, different types of evaluation methods. Job description, merit rating, different methods\nof merit ratings, wage incentives, different types of wage incentive schemes. Marketing, selling,\nmarketing mix, product life cycle."
+        }
+      ]
+    },
+    {
+      "code": "R23EC4103",
+      "name": "Professional Elective - IV (DSP Processors / Low Power VLSI / Coding Theory / Soft Computing)",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Fundamentals: Need for Low Power Circuit Design, Sources of Power Dissipation - Switching",
+          "topics": "Power Dissipation, Short Circuit Power Dissipation, Leakage Power Dissipation, Glitching Power\nDissipation, Short Channel Effects -Drain Induced Barrier Lowering and Punch Through, Surface\nScattering, Velocity Saturation, Impact Ionization, Hot Electron Effect."
+        },
+        {
+          "unit": 2,
+          "title": "Low-Power Design Approaches: Low-Power Design through Voltage Scaling - VTCMOS",
+          "topics": "circuits, MTCMOS circuits, Architectural Level Approach -Pipelining and Parallel Processing\nApproaches.\nSwitched Capacitance Minimization Approaches: System Level Measures, Circuit Level\nMeasures, and Mask level Measures."
+        },
+        {
+          "unit": 3,
+          "title": "Low-Voltage Low -Power Adders: Introduction, Standard Adder Cells, CMOS Adder's",
+          "topics": "Architectures - Ripple Carry Adders, Carry Look- Ahead Adders, Carry Select Adders, Carry Save\nAdders, Low-Voltage Low-Power Design Techniques -Trends of Technology and Power Supply\nVoltage, Low-Voltage Low-Power Logic Styles."
+        },
+        {
+          "unit": 4,
+          "title": "Low-Voltage Low -Power Multipliers: Introduction, Overview of Multiplication, Types of",
+          "topics": "Multiplier Architectures, Braun Multiplier, Baugh - Wooley Multiplier, Booth Multiplier,\nIntroduction to Wallace Tree Multiplier."
+        },
+        {
+          "unit": 5,
+          "title": "Low-Voltage Low-Power Memories: Basics of ROM, Low -Power ROM Technology, Future",
+          "topics": "Trend and Development of ROMs, Basics of SRAM, Memory  Cell, Pre-charge and Equalization\nCircuit, Low-Power SRAM Technologies, Basics of DRAM, Self -Refresh Circuit, Future Trend\nand Development of DRAM."
+        }
+      ]
+    },
+    {
+      "code": "R23EC4104",
+      "name": "Professional Elective - V (Digital Image Processing / Design for Testability / Radar / IoT)",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to Testing: Testing Philosophy, Role of Testing, Digital and Analog VLSI Testing,",
+          "topics": "VLSI Technology Trends affecting Testing, Types of Testing, Fault Modeling: Defects, Errors and\nFaults, Functional Versus Structural Testing, Levels of Fault Models, Single Stuck-at Fault."
+        },
+        {
+          "unit": 2,
+          "title": "Logic and Fault Simulation: Simulation for Design Verification and Test Evaluation, Modeling",
+          "topics": "Circuits for Simulation, Algorithms for True -value Simulation, Algorithms for Fault Simulation,\nATPG."
+        },
+        {
+          "unit": 3,
+          "title": "Testability Measures: SCOAP Controllability and Observability, High Level Testability Measures,",
+          "topics": "Digital DFT and Scan Design: Ad -Hoc DFT Methods, Scan Design, Partial -Scan Design,\nVariations of\nScan."
+        },
+        {
+          "unit": 4,
+          "title": "Built-In Self-Test: The Economic Case for BIST, Random Logic BIST: Definitions, BIST Process,",
+          "topics": "Pattern Generation, Response Compaction, Built-In Logic Block Observers, Test-Per-Clock, Test-\nPer-Scan BIST Systems, Circular Self Test Path System, Memory BIST, Delay Fault BIST."
+        },
+        {
+          "unit": 5,
+          "title": "Boundary Scan Standard: Motivation, System Configuration with Boundary Scan: TAP Controller",
+          "topics": "and Port, Boundary Scan Test Instructions, Pin Constraints of the Standard, Boundary Scan\nDescription Language: BDSL Description Components, Pin Descriptions.\nTEXT BOOK:\n1. M.L. Bushnell, V. D. Agrawal, \"Essential of Electronic Testing for Digital, Memory and\nMixed Signal VLSI Circuits\", Kluwer Academic Publishers"
+        }
+      ]
+    },
+    {
+      "code": "R23ECOE3",
+      "name": "Open Elective - III",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "OE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "MOS Transistors",
+          "topics": "Introduction, The Structure of MOS Transistors, The Fluid Model, The MOS Capacitor, The MOS\nTransistor, Modes of Operation of MOS Transistors, Electrical Characteristics of MOS\nTransistors, Threshold Voltage, Transistor Transconductance g m, Figure of Merit, Body Effect,\nChannel-Length Modulation, MOS Transistors as a Switch, Transmission Gate"
+        },
+        {
+          "unit": 2,
+          "title": "MOS Fabrication Technology",
+          "topics": "Introduction, Basic Fabrication Processes, Wafer Fabrication, Oxidation, Mask Generation,\nPhotolithography, Diffusion, Deposition. N-MOS Fabrication Steps, CMOS Fabrication Steps,n -\nWell Process,p-Well Process, Twin -Tub Process, Latch -Up Problem and Its Pr evention, Use of\nGuard Rings, Use of Trenches, Short-Channel Effects-Channel Length Modulation Effect. Drain-\nInduced Barrier Lowering, Channel Punch Through, Hot carrier effect, Velocity Saturation Effect"
+        },
+        {
+          "unit": 3,
+          "title": "Layout Design Rules",
+          "topics": "Design Rule Background, Scribe Line and Other Structures MOSIS Scalable CMOS Design Rules,\nMicron Design Rules, CMOS Process Enhancements, Transistors, Interconnect, Circuit Elements,\nBeyond Conventional CMOS"
+        },
+        {
+          "unit": 4,
+          "title": "MOS Combinational Circuits",
+          "topics": "Pass-Transistor Logic, Realizing Pass -Transistor Logic, Advantages and Disadvantages, Pass -\nTransistor Logic Families, Gate Logic, Fan -In and Fan -Out, n -MOS NAND and NOR Gates,\nCMOS Realization, Switching Characteristics, CMOS NOR Gate, CMOS Complex Logic Gates,\nMOS Dynamic Circuits, Single -Phase Dynamic Circuits, Two -Phase Dynamic Circuits, CMOS\nDynamic Circuits, Advantages and Disadvantages Domino CMOS Circuits, NORA Logic\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 5,
+          "title": "Sequential MOS Logic Circuits",
+          "topics": "Behaviour of bistable elements, SR Latch, Clocked latch and flip flop circuits, CMOS D latch and\nedge triggered flip-flop."
+        }
+      ]
+    },
+    {
+      "code": "R23ECOE4",
+      "name": "Open Elective - IV",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "OE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "CELLULAR SYSTEMS: Limitations of Conventional System, Basic Cellular Mobile",
+          "topics": "System, First, second, third and fourth and  Generation cellular wireless systems. Operation of\nCellular System. Uniqueness of Mobile Radio Environment -Fading, coherence bandwidth,\nDoppler Spread. Fundamentals of cellular Radio System Design: concept of frequency reuse\nchannels, Co-channel Interference, Co-channel Interference Reduction Factor, desired C/I from a\nnormal case in a Omni directional Antenna system. Trunking and grade of service"
+        },
+        {
+          "unit": 2,
+          "title": "CO-CHANNEL & NON-CO-CHANNEL INTERFERENCE: Measurement of Real",
+          "topics": "Time Co-Channel Interference, design of Antenna system, Antenna parameters and their effects,\ndiversity techniques: Space Diversity, Polarization diversity, frequency diversity and time\ndiversity. Non-co channel interference-adjacent channel interference."
+        },
+        {
+          "unit": 3,
+          "title": "Frequency Management And Channel Assignment : Numbering and grouping, setup",
+          "topics": "access and paging channels ,channel assignments to cell sites and mobile units, channel sharing\nand borrowing, sectorization, overlaid cells, non fixed channel assignment"
+        },
+        {
+          "unit": 4,
+          "title": "HANDOFFS: Handoff Initiation, types of handoff, delaying handoff, advantages of",
+          "topics": "Handoff, power difference handoff, forced handoff, mobile assisted and soft and Hard handoffs.\nIntersystem and Intrasystem handoffs, Concept of Call drop rates."
+        },
+        {
+          "unit": 5,
+          "title": "Multiple access schemes in mobile communications : TDMA, FDMA, CDMA.",
+          "topics": "Introduction to MIMO systems Principles of CDMA cellular systems, Principles of OFDM based\nbroadband wireless systems , 4G LTE basics - OFDM, and OFDMA ,Generalised framework for\nFiltered OFDM and FBMC .Introduction of 5G\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        }
+      ]
+    },
+    {
+      "code": "R23EC41L1",
+      "name": "Digital Signal and Image Processing Lab",
+      "credits": 2.0,
+      "l": 0,
+      "t": 1,
+      "p": 2,
+      "type": "skill",
+      "cat": "SEC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Generation of DT signals.",
+          "topics": "1. Generation of DT signals.\n2. Verify the Linear Convolution of two DT signals\n3. Verify the Circular Convolution of two DT signals\n4. Find the sum of DT sinusoidal signals."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 5. Computation of Discrete Fourier Transform (DFT) and Inverse Discrete Fourier",
+          "topics": "5. Computation of Discrete Fourier Transform (DFT) and Inverse Discrete Fourier\n6. Compute N-point DFT of a given DT sequence using Decimation in Time. (Without\n7.  Compute N-point DFT of a given DT sequence using Decimation in Frequency.\n7. Generation of a sinusoidal signal."
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 8. Linear and circular convolution of DT sequences.",
+          "topics": "8. Linear and circular convolution of DT sequences.\n9. Compute N-point DFT of a given DT sequence.\n10. Design and implementation of FIR filters.\n11. Design and implementation of IIR filters."
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 1. Perform basic operations on images like addition, subtraction etc.",
+          "topics": "1. Perform basic operations on images like addition, subtraction etc.\n2. Plot the histogram of an image and perform histogram equalization\n3. Filtering in Spatial Domain\n4. Computation of 2D-DFT"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 5. Filtering in Frequency Domain",
+          "topics": "5. Filtering in Frequency Domain\n6. Implementation of Image Restoration methods\n7. Implementation of JPEG compression Algorithm (Without using Library function)\n8. Comparison of coding Techniques for image compression (Bitplane, Predictive,\n9. Detections of edges in an image (Prewitt, Sobel, Krisch and Laplacian of Gaussian\n10. Image Segmentation based on thresholding."
+        }
+      ]
+    },
+    {
+      "code": "R23CC41MC",
+      "name": "Constitution of India",
+      "credits": 0.0,
+      "l": 2,
+      "t": 0,
+      "p": 0,
+      "type": "audit",
+      "cat": "AC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to Indian Constitution: Constitution meaning of the term, Indian Constitution -",
+          "topics": "Sources and constitutional history, Features - Citizenship, Preamble, Fundamental Rights and\nDuties, Directive Principles of State Policy."
+        },
+        {
+          "unit": 2,
+          "title": "Union Government and its Administration Structure of the Indian Union: Federalism, Centre -",
+          "topics": "State relationship, President: Role, power and position, PM and Council of ministers, Cabinet and\nCentral Secretariat, LokSabha, RajyaSabha , The Supreme Court and High Court: Powers and\nFunctions;"
+        },
+        {
+          "unit": 3,
+          "title": "State Government and its Administration Governor - Role and Position - CM and Council of",
+          "topics": "ministers, State Secretariat: Organization, Structure and Functions\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 4,
+          "title": "A Local Administration - District's Administration Head - Role and Importance, Municipalities -",
+          "topics": "Mayor and role of Elected Representative - CEO of Municipal Corporation PachayatiRaj:\nFunctions PRI: Zilla Panchayat, Elected officials and their roles, CEO Zilla Panchayat: Block\nlevel Organizational Hierarchy - (Different departments), Village level - Role of Elected and\nAppointed officials - Importance of grass root democracy"
+        },
+        {
+          "unit": 5,
+          "title": "Election Commission: Election Commission- Role of Chief Election Commissioner and Election",
+          "topics": "Commissionerate State Election Commission: Functions of Commissions for the welfare of\nSC/ST/OBC and women\nReferences:\n1. Durga Das Basu, Introduction to the Constitution of India, Prentice - Hall of India Pvt. Ltd..\nNew Delhi\n2. SubashKashyap, Indian Constitution, National Book Trust\n3. J.A. Siwach, Dynamics of Indian Government & Politics\n4. D.C. Gupta, Indian Government and Politics\n5. H.M.Sreevai, Constitutional Law of India, 4th edition in 3 volumes (Universal Law\nPublication)\n6. J.C. Johari, Indian Government and Politics Hans\nReferences\n1. J. Raj Indian Government and Politics\n2. M.V. Pylee, Indian Constitution Durga Das Basu, Human Rights in Constitutional Law,\nPrentice - Hall of India Pvt. Ltd.. New Delhi\n3. Noorani, A.G., (South Asia Human Rights Documentation Centre), Challenges to Civil\nRight),\n4. Challenges to Civil Rights Guarantees in India, Oxford University Press 2012 resources:\n5. nptel.ac.in/courses/109104074/8\n6. nptel.ac.in/courses/109104045/\n7. nptel.ac.in/courses/101104065/\n8. www.hss.iitb.ac.in/en/lecture-details\n9. www.iitb.ac.in/en/event/2nd-lecture-institute-lecture-series-indian-constitution"
+        }
+      ]
+    },
+    {
+      "code": "R23CC41IN",
+      "name": "Evaluation of Industry Internship",
+      "credits": 2.0,
+      "l": 0,
+      "t": 0,
+      "p": 0,
+      "type": "internship",
+      "cat": "PR",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Module 1: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nS.No\nSubject\nCourse Code\nCat.\nCode\nIntern\nal\nMarks\nExtern\nal\nMarks"
+        },
+        {
+          "unit": 2,
+          "title": "Module 2: Total",
+          "topics": "Total\nMarks\nL\nT\nP\nCre\ndits\n1\nCellular & Mobile\nCommunications R23EC4101 PC 30 70 100 3 0 0 3\n2 Management Science R23EC4102 MC 30 70 100 2 0 0 2\n3"
+        },
+        {
+          "unit": 3,
+          "title": "Module 3: Low Power VLSI Design  PE 30 70 100 3 0 0 3",
+          "topics": "Low Power VLSI Design  PE 30 70 100 3 0 0 3\nCoding Theory and\nApplications\nPE 30 70 100 3 0 0 3\nDSP Processors and\nArchitectures R23EC4103 PE 30 70 100 3 0 0 3\nSoft Computing Techniques  PE 30 70 100 3 0 0 3\n4\nDesign for Testability  PE 30 70 100 3 0 0 3\nRadar Engineering  PE 30 70 100 3 0 0 3\nDigital Image Processing R23EC4104 PE 30 70 100 3 0 0 3\nInternet of Things  PE 30 70 100 3 0 0 3"
+        },
+        {
+          "unit": 4,
+          "title": "Module 4: 5",
+          "topics": "5\nFundamentals of VLSI\nDesign\nOE 30 70 100 3 0 0 3\nDigital Electronics  OE 30 70 100 3 0 0 3\nElectronic measurements\nand Instrumentations  OE 30 70 100 3 0 0 3\nOptical communications  OE 30 70 100 3 0 0 3\n6\nPrinciples of Cellular &\nMobile communications  OE 30 70 100 3 0 0 3\nFundamentals of Satellite"
+        },
+        {
+          "unit": 5,
+          "title": "Module 5: Communications  OE 30 70 100 3 0 0 3",
+          "topics": "Communications  OE 30 70 100 3 0 0 3\nEmbedded Systems  OE 30 70 100 3 0 0 3\nTransducers and Signal\nConditioning  OE 30 70 100 3 0 0 3\nQuantum Science and\nTechnology  OE 30 70 100 3 0 0 3\n7 Digital Signal and Image\nProcessing Lab\nR23EC41L1  30 70 100 0 1 2 2\n8 Constitution of India R23CC41MC  30 70 100 2 0 0 -\n9 Evaluation of Industry\nInternship R23CC41IN     - - - 2"
+        }
+      ]
+    }
+  ]
+}

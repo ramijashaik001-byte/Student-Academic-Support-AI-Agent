@@ -1,0 +1,356 @@
+{
+  "academic_year": "2023-2024",
+  "semester": "1-1",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 20.5,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23CC1101",
+      "name": "Linear Algebra & Calculus",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Matrices",
+          "topics": "Introduction to Linear Transformation-Rank of a matrix by Echelon form and normal form - Cauchy-\nBinet formulae (without proof) - Inverse of non-singular matrices by Gauss-Jordan method - System\nof linear equations: Solving system of homogeneous and non -homogeneous equations - Gauss\nelimination method, Jacobi and Gauss-Seidel iteration methods.\nApplications: L-C-R Circuits"
+        },
+        {
+          "unit": 2,
+          "title": "Eigenvalues, Eigenvectors and Orthogonal transformation",
+          "topics": "Eigenvalues, Eigenvectors and their properties - Diagonalization of a matrix - Cayley-Hamilton\ntheorem (without proof), finding inverse and power of a matrix by Cayley -Hamilton theorem -\nQuadratic form and nature of a quadratic form - Reduction of quadratic form to canonical form by\northogonal transformation."
+        },
+        {
+          "unit": 3,
+          "title": "Calculus",
+          "topics": "Mean Value Theorems (without proofs): Rolle's theorem, Lagrange's mean value theorem with their\ngeometrical interpretation - Cauchy's mean value theorem - Taylor's and Maclaurin's theorems with\nremainders - Problems and applications on the above theorems.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 38 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 4,
+          "title": "Partial differentiation and Applications (Multi variable calculus)",
+          "topics": "Functions of several variables: Continuity and Differentiability - Partial derivatives - Homogeneous\nfunction-Euler's Theorem on homogeneous functions-Total derivatives - Chain rule\n- Taylor's and Maclaurin's series expansion of functions of two variables - Jacobians - Functional\ndependence - Maxima and minima of functions of two variables - Method of Lagrange's multipliers."
+        },
+        {
+          "unit": 5,
+          "title": "Multiple Integrals (Multi variable calculus)",
+          "topics": "Double integrals - Triple integrals - Change of order of integration - Change of variables to polar,\ncylindrical and spherical coordinates - Finding areas (by double integrals) and volumes (by double\nintegrals and triple integrals)."
+        }
+      ]
+    },
+    {
+      "code": "R23CC1102",
+      "name": "Introduction To Programming",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to Programming and Problem Solving",
+          "topics": "History of Computers, Basic organization of a computer: ALU, input -output units,\nmemory, program counter, Introduction to Programming Languages, Basics of a Computer\nProgram- Algorithms, flowcharts (Using Dia Tool), pseudo code. Introduction to\nCompilation and Execution, Primitive Data Types, Variables, and Constants, Basic Input\nand Output, Operators, Type Conversion, and Casting.\nProblem solving techniques: Algorithmic approach, characteristics of algorithm, Problem\nsolving strategies: Top -down approach, Bottom -up approach, Time and space\ncomplexities of algorithms."
+        },
+        {
+          "unit": 2,
+          "title": "Control Structures",
+          "topics": "Simple sequential programs Conditional Statements (if, if-else, switch), Loops (for, while,\ndo-while) Break and Continue.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 40 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 3,
+          "title": "Arrays and Strings",
+          "topics": "Arrays indexing, memory model, programs with array of integers, two dimensional arrays,\nStrings: Introduction - Reading Strings - Writing Strings - String Manipulation functions\n-Array of Strings."
+        },
+        {
+          "unit": 4,
+          "title": "Pointers & User Defined Data types",
+          "topics": "Pointers, dereferencing and address operators, pointer and address arithmetic, array\nmanipulation using pointers, User-defined data types-Structures and Unions."
+        },
+        {
+          "unit": 5,
+          "title": "Functions & File Handling",
+          "topics": "Introduction to Functions, Function Declaration and Definition, Function call Return\nTypes and Arguments, modifying parameters inside functions using pointers, arrays as\nparameters. Scopeand Lifetime of Variables, Basics of File Handling\nNote: The syllabus is designed with C Language as the fundamental language of\nimplementation."
+        }
+      ]
+    },
+    {
+      "code": "R23CC1106",
+      "name": "Engineering Physics",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lasers and Optical Fibers",
+          "topics": "Lasers: Introduction - Characteristics of lasers - Spontaneous and Stimulated emission\nof radiation - Population inversion - Einstein's coefficients and relation between them -\nRuby laser - Helium Neon laser- Semiconductor laser-Applications.\nOptical Fibers: Introduction- Basic Structure and Principle of optical fiber - Acceptance\nangle - Acceptance cone - Numerical Aperture - Step Index and Graded index fibers -\nApplications."
+        },
+        {
+          "unit": 2,
+          "title": "Crystallography and X-ray diffraction",
+          "topics": "Crystallography: Space lattice, Basis, Unit Cell and lattice parameters - Bravais Lattices\n- crystal systems (3D) - coordination number - packing fraction of SC, BCC & FCC.\nX-ray diffraction: Miller indices - separation between successive (hkl) planes.\nBragg's law - crystal structure determination by Laue's and powder methods.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 42 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 3,
+          "title": "Magnetic Materials and Superconductivity",
+          "topics": "Magnetic Materials: Introduction - Magnetic dipole moment - Magnetization-Magnetic\nsusceptibility, permeability and relation between them - Atomic origin of magnetism -\nClassification of magnetic materials: Dia, para, Ferro, anti -ferro & Ferri magnetic\nmaterials - Hysteresis - soft and hard magnetic materials.\nSuperconductivity: Introduction- Properties, Meissner effect - Type-I and Type-II super\nconductors- BCS Theory- AC and DC Josephson effect-Applications.\nUNITT IV: Quantum Mechanics and Free electron theory\nQuantum Mechanics: de-Broglie's matter Waves -  Heisenberg's  Uncertainty Principle\n- Significance and properties of wave function - Schrodinger's time independent wave equation -\nParticle in a one-dimensional infinite potential well.\nFree Electron Theory: Classical free electron theory (Qualitative with discussion of merits and\ndemerits) - electrical conductivity based on Classical free electron theory -Quantum free electron\ntheory -- Fermi energy- Fermi-Dirac distribution."
+        },
+        {
+          "unit": 5,
+          "title": "Semiconductors and Smart materials",
+          "topics": "Semiconductors: Formation of energy bands - classification of solids - Types of semiconductors -\nDrift and diffusion currents - Einstein's equation - Hall Effectand its applications.\nSmart materials: Introduction - properties- types of smart materials - shape memory alloys -\npiezoelectric materials- magnetostrictive materials - Thermoelectric materials- magneto rheological\nfluids- electro rheological fluids- Chromic materials - Engineering applications of smart materials."
+        }
+      ]
+    },
+    {
+      "code": "R23CC1107",
+      "name": "Basic Electrical & Electronics Engineering",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "DC & AC Circuits",
+          "topics": "DC Circuits: Electrical circuit elements (R, L and C), Ohm's Law and its limitations, KCL &\nKVL, series, parallel, series-parallel circuits, Super Position theorem, Simple numerical problems.\nAC Circuits: A.C. Fundamentals: Equation of AC Voltage and current, waveform, time period,\nfrequency, amplitude, phase, phase difference, average value, RMS value, form factor, peak factor,\nVoltage and current relationship with phasor diagrams in R, L, and C circuits, Concept of Impedance,\nActive power, reactive power and apparent power, Concept of power factor (Simple Numerical\nproblems)."
+        },
+        {
+          "unit": 2,
+          "title": "Machines and Measuring Instruments",
+          "topics": "Machines: Construction, principle and operation of (i) DC Motor, (ii) DC Generator, (iii) Single\nPhase Transformer, (iv) Three Phase Induction Motor and (v) Alternator, Applications of\nelectrical machines.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 44 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nMeasuring Instruments: Construction and working principle of Permanent Magnet Moving\nCoil (PMMC), Moving Iron (MI) Instruments and Wheat Stone bridge."
+        },
+        {
+          "unit": 3,
+          "title": "Energy Resources, Electricity Bill & Safety Measures",
+          "topics": "Energy Resources: Conventional and non-conventional energy resources; Layout and operation\nof various Power Generation systems: Hydel, Nuclear, Solar & Wind power generation.\nElectricity bill: Power rating of household appliances including air conditioners, PCs, Laptops,\nPrinters, etc. Definition of \"unit\" used for consumption of electrical energy, two -part electricity\ntariff, calculation of electricity bill for domestic consumers.\nEquipment Safety Measures: Working principle of Fuse and Miniature circuit breaker (MCB),\nmerits and demerits. Personal safety measures: Electric Shock, Earthing and its types, Safety\nPrecautions to avoid shock."
+        }
+      ]
+    },
+    {
+      "code": "R23CC1108",
+      "name": "Engineering Graphics",
+      "credits": 3.0,
+      "l": 1,
+      "t": 0,
+      "p": 4,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction: Lines, Lettering and Dimensioning, Geometrical Constructions and Constructing",
+          "topics": "regular polygons by general methods.\nCurves: construction of ellipse, parabola and hyperbola by general, Cycloids, Involutes, Normal\nand tangent to Curves.\nScales: Plain scales, diagonal scales and vernier scales."
+        },
+        {
+          "unit": 2,
+          "title": "Orthographic Projections: Reference plane, importance of reference lines or Plane, Projections of",
+          "topics": "a point situated in any one of the four quadrants.\nProjections of Straight Lines: Projections of straight lines parallel to both reference planes,\nperpendicular to one reference plane and parallel to other reference plane, inclined to one reference\nplane and parallel to the other reference plane. Projections of Straight Line Inclined to both the\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 48 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nreference planes\nProjections of Planes: regular planes Perpendicular to both reference planes, parallel to one\nreference plane and inclined to the other reference plane; plane inclined to both the reference planes."
+        },
+        {
+          "unit": 3,
+          "title": "Projections of Solids: Types of solids: Polyhedral and Solids of revolution. Projections of solids in",
+          "topics": "simple positions: Axis perpendicular to horizontal plane, Axis perpendicular to vertical plane and\nAxis parallel to both the reference planes, Projection of Solids with axis inc lined to one reference\nplane and parallel to another plane."
+        },
+        {
+          "unit": 4,
+          "title": "Sections of Solids: Perpendicular and inclined section planes, Sectional views and True shape of",
+          "topics": "section, Sections of solids in simple position only.\nDevelopment of Surfaces: Methods of Development: Parallel line development and radial line\ndevelopment. Development of a cube, prism, cylinder, pyramid and cone."
+        },
+        {
+          "unit": 5,
+          "title": "Conversion of Views : Conversion of isometric views to orthographic views; Conversion of",
+          "topics": "orthographic views to isometric views.\nComputer graphics: Creating 2D&3D drawings of objects including PCB and Transformationsusing\nAuto CAD (Not for end examination).\nTextbook:\n1. N. D. Bhatt, Engineering Drawing, Charotar Publishing House, 2016."
+        }
+      ]
+    },
+    {
+      "code": "R23CC11L1",
+      "name": "Computer Programming Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "WEEK 1",
+          "topics": "Objective: Getting familiar with the programming environment on the computer and\nwritingthe first program.\nSuggested Experiments/Activities:\nTutorial 1: Problem-solving using Computers.\nLab1: Familiarization with programming environment\ni) Basic Linux environment and its editors like Vi, Vim & Emacs etc.\nii) Basic commands of Linux (sudo, pwd, cd, ls, cat, cp, mv, mkdir, rmdir, rm, touch, locate,\nfind, grep, df, du, head, tail, diff, tar, chmod, chown, kill, ping)\niii) Exposure to Turbo C, gcc\niv) Writing simple programs using printf(), scanf()\nWEEK 2\nObjective: Getting familiar with how to formally describe a solution to a problem in\nseriesof finite steps both using textual notation and graphic notation\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 50 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nSuggested Experiments /Activities:\nTutorial 2: Problem-solving using Algorithms and Flow charts.\nLab 1: Converting algorithms/flow charts into C Source code.\nDeveloping the algorithms/flowcharts for the following sample programs\ni) Sum and average of 3 numbers\nii) Conversion of Fahrenheit to Celsius and vice versa\niii) Simple interest calculation\nWEEK 3\nObjective: Learn how to define variables with the desired data-type, initialize them with\nappropriate values and how arithmetic operators can be used with variables and constants.\nSuggested Experiments/Activities:\nTutorial 3: Variable types and type conversions:\nLab 3: Simple computational problems using arithmetic expressions.\ni) Finding the square root of a given number\nii) Finding compound interest\niii) Area of a triangle using heron's formulae\niv) Distance travelled by an object"
+        },
+        {
+          "unit": 2,
+          "title": "WEEK 4",
+          "topics": "Objective: Explore the full scope of expressions, type-compatibility of variables &\nconstantsand operators used in the expression and how operator precedence works.\nSuggested Experiments/Activities:\nTutorial4: Operators and the precedence and as associativity:\nLab4: Simple computational problems using the operator' precedence and associativity\ni) Evaluate the following expressions.\na. A+B*C+(D*E) + F*G\nb. A/B*C-B+A*D/3\nc. A+++B---A\nd. J= (i++) + (++i)\nii) Find the maximum of three numbers using conditional operator\niii) Take marks of 5 subjects in integers, and find the total, average in float\nWEEK 5\nObjective: Explore the full scope of different variants of \"if construct\" namely if-else,\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 51 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nnull- else, if-else if*-else, switch and nested -if including in what scenario each one of\nthem can be used and how to use them. Explore all relational and logical operators while\nwriting conditionals for \"if construct\".\nSuggested Experiments/Activities:\nTutorial 5: Branching and logical expressions:\nLab 5: Problems involving if-then-else structures.\ni) Write a C program to find the max and min of four numbers using if-else.\nii) Write a C program to generate electricity bill.\niii) Find the roots of the quadratic equation.\niv) Write a C program to simulate a calculator using switch case.\nv) Write a C program to find the given year is a leap year or not.\nWEEK 6\nObjective: Explore the full scope of iterative constructs namely while loop, do-while loop and\nfor loop in addition to structured jump constructs like break and continue including when\neachof these statements is more appropriate to use.\nSuggested Experiments/Activities:\nTutorial 6: Loops, while and for loops\nLab 6: Iterative problems e.g., the sum of series\ni) Find the factorial of given number using any loop.\nii) Find the given number is a prime or not.\niii) Compute sine and cos series\niv) Checking a number palindrome\nv) Construct a pyramid of numbers."
+        },
+        {
+          "unit": 3,
+          "title": "WEEK 7:",
+          "topics": "Objective: Explore the full scope of Arrays construct namely defining and initializing 1-\nD and 2 -D and more generically  n-D arrays and referencing individual array  elements\nfrom the defined array. Using integer 1-D arrays, explore search solution linear search.\nSuggested Experiments/Activities:\nTutorial 7: 1 D Arrays: searching.\nLab 7:1D Array manipulation, linear search\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 52 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\ni) Find the min and max of a 1-D integer array.\nii) Perform linear search on1D array.\niii) The reverse of a 1D integer array\niv) Find 2's complement of the given binary number.\nv) Eliminate duplicate elements in an array.\nWEEK 8:\nObjective: Explore the difference between other arrays and character arrays that can be\nused as Strings by using null character and get comfortable with string by doing\nexperiments that will reverse a string and concatenate two strings. Explore sorting\nsolution bubble sort using integer arrays.\nSuggested Experiments/Activities:\nTutorial 8: 2 D arrays, sorting and Strings.\nLab 8: Matrix problems, String operations, Bubble sort\ni) Addition of two matrices\nii) Multiplication two matrices\niii) Sort array elements using bubble sort\niv) Concatenate two strings without built-in functions\nv) Reverse a string using built-in and without built-in string functions"
+        },
+        {
+          "unit": 4,
+          "title": "WEEK :9",
+          "topics": "Objective: Explore pointers to manage a dynamic array of integers, including memory\nallocation &amp; value initialization, resizing changing and reordering the contents of an\narray\nand memory de -allocation using malloc (), calloc (), realloc () and free () functions.\nGainexperience processing command-line arguments received by C\nSuggested Experiments/Activities:\nTutorial 9: Pointers, structures and dynamic memory allocation\nLab 9: Pointers and structures, memory dereference.\ni) Write a C program to find the sum of a 1D array using malloc()\nii) Write a C program to find the total, average of n students using structures\niii) Enter n students data using calloc() and display failed students list\niv) Read student name and marks from the command line and display the student details\nalongwith the total.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 53 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nv) Write a C program to implement realloc()\nWEEK 10:\nObjective: Experiment with C Structures, Unions, bit fields and self-referential\nstructures(Singly linked lists) and nested structures\nSuggested Experiments/Activities:\nTutorial 10: Bitfields, Self-Referential Structures, Linked lists\nLab10 : Bitfields, linked lists\nRead and print a date using dd/mm/yyyy format using bit-fields and differentiate the\nsamewithout using bit- fields\ni) Create and display a singly linked list using self-referential structure.\nii) Demonstrate the differences between structures and unions using a C program.\niii) Write a C program to shift/rotate using bitfields.\niv) Write a C program to copy one structure variable to another structure of the same type."
+        },
+        {
+          "unit": 5,
+          "title": "WEEK 11:",
+          "topics": "Objective: Explore the Functions, sub -routines, scope and extent of variables, doing\nsomeexperiments by parameter passing using call by value. Basic methods of numerical\nintegration\nSuggested Experiments/Activities:\nTutorial 11: Functions, call by value, scope and extent,\nLab 11: Simple functions using call by value, solving differential equations using\nEulerstheorem.\ni) Write a C function to calculate NCR value.\nii) Write a C function to find the length of a string.\niii) Write a C function to transpose of a matrix.\niv) Write a C function to demonstrate numerical integration of differential equations using\nEuler'smethod\nWEEK 12:\nObjective: Explore how recursive solutions can be programmed by writing recursive\nfunctions that can be invoked from the main by programming at -least five distinct\nproblems that have naturally recursive solutions.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 54 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nSuggested Experiments/Activities:\nTutorial 12: Recursion, the structure of recursive calls\nLab 12: Recursive functions\ni) Write a recursive function to generate Fibonacci series.\nii) Write a recursive function to find the lcm of two numbers.\niii) Write a recursive function to find the factorial of a number.\niv) Write a C Program to implement Ackermann function using recursion.\nv) Write a recursive function to find the sum of series.\nWEEK 13:\nObjective: Explore the basic difference between normal and pointer variables,\nArithmeticoperations using pointers and passing variables to functions using pointers\nSuggested Experiments/Activities:\nTutorial 13: Call by reference, dangling pointers\nLab 13: Simple functions using Call by reference, Dangling pointers.\ni) Write a C program to swap two numbers using call by reference.\nii) Demonstrate Dangling pointer problem using a C program.\niii) Write a C program to copy one string into another using pointer.\niv) Write a C program to find no of lowercase, uppercase, digits and\nothercharacters using pointers.\nWEEK14:\nObjective: To understand data files and file handling with various file I/O functions.\nExplore thedifferences between text and binary files.\nSuggested Experiments/Activities:\nTutorial 14: File handling\nLab 14: File operations\ni) Write a C program to write and read text into a file.\nii) Write a C program to write and read text into a binary file using\nfread() andfwrite()\niii) Copy the contents of one file to another file.\niv) Write a C program to merge two files into the third file using\ncommand-linearguments.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 55 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nv) Find no. of lines, words and characters in a file\nvi) Write a C program to print last n characters of a given file.\nWEEK 15: Virtual Labs:\nhttps://ps-iiith.vlabs.ac.in/List%20of%20experiments.html"
+        }
+      ]
+    },
+    {
+      "code": "R23CC11L5",
+      "name": "IT Workshop",
+      "credits": 1.0,
+      "l": 0,
+      "t": 0,
+      "p": 2,
+      "type": "lab",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 2. Comdex Information Technology course tool kit, Vikas Gupta, WILEY Dream tech,",
+          "topics": "2. Comdex Information Technology course tool kit, Vikas Gupta, WILEY Dream tech, 2003"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 3. The Complete Computer upgrade and repair book, Cheryl A Schmidt, WILEY Dream",
+          "topics": "3. The Complete Computer upgrade and repair book, Cheryl A Schmidt, WILEY Dream"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 4.  Introduction to Information Technology, ITL Education Solutions limited, Pea",
+          "topics": "4.  Introduction to Information Technology, ITL Education Solutions limited, Pearson"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 5. PC Hardware - A Handbook, Kate J. Chase, PHI (Microsoft)",
+          "topics": "5. PC Hardware - A Handbook, Kate J. Chase, PHI (Microsoft)"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 6. LaTeX Companion, Leslie Lamport, PHI/Pearson.",
+          "topics": "6. LaTeX Companion, Leslie Lamport, PHI/Pearson.\n7. IT Essentials PC Hardware and Software Companion Guide, David Anfins on and Ken"
+        }
+      ]
+    },
+    {
+      "code": "R23CC11L6",
+      "name": "Engineering Physics Lab",
+      "credits": 1.0,
+      "l": 0,
+      "t": 0,
+      "p": 2,
+      "type": "lab",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Determination of radius of curvature of a given plano convex lens by Newton's",
+          "topics": "1. Determination of radius of curvature of a given plano convex lens by Newton's rings.\n2. Determination of wavelengths of different spectral lines in mercury spectrum using"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 3. Verification of Brewster's law",
+          "topics": "3. Verification of Brewster's law\n4. Determination of dielectric constant using charging and discharging method."
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 5. Study the variation of B versus H by magnetizing the magnetic material (B-H c",
+          "topics": "5. Study the variation of B versus H by magnetizing the magnetic material (B-H curve).\n6. Determination of wavelength of Laser light using diffraction grating."
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 7. Estimation of Planck's constant using photoelectric effect.",
+          "topics": "7. Estimation of Planck's constant using photoelectric effect.\n8. Determination of the resistivity of semiconductors by four probe methods."
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 9. Determination of energy gap of a semiconductor using p-n junction diode.",
+          "topics": "9. Determination of energy gap of a semiconductor using p-n junction diode.\n10. Magnetic field along the axis of a current carrying circular coil by\n11. Determination of Hall voltage and Hall coefficient of a given\n12. Determination of temperature coefficients of a thermistor."
+        }
+      ]
+    },
+    {
+      "code": "R23CC11L7",
+      "name": "EEE Workshop",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Familiarization of commonly used Electrical & Electronic Workshop Tools: Brea",
+          "topics": "1. Familiarization of commonly used Electrical & Electronic Workshop Tools: Bread board,\n2. Familiarization of Measuring Instruments like Voltmeters, Ammeters, multimeter, LCR -Q\n3. Components:\n1. Verification of KCL and KVL\n2. Verification of Superposition theorem"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 3. Measurement of Resistance using Wheatstone bridge",
+          "topics": "3. Measurement of Resistance using Wheatstone bridge\n4. Magnetization Characteristics of DC shunt Generator\n5. Measurement of Power and Power factor using Single-phase wattmeter\n6. Measurement of Earth Resistance using Megger\n7. Calculation of Electrical Energy for Domestic Premises"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 8. Determination of open circuit and short circuit parameters of a 1-phase trans",
+          "topics": "8. Determination of open circuit and short circuit parameters of a 1-phase transformer(Content\n1. Basic Electrical Engineering, D. C. Kulshreshtha, Tata McGraw Hill, 2019, First Edition\n2. Power System Engineering, P.V. Gupta, M.L. Soni, U.S. Bhatnagar and A. Chakrabarti, Dhanpat\n3. Fundamentals of Electrical Engineering, Rajendra Prasad, PHI publishers, 2014, Third Edition\n1. Plot V-I characteristics of PN Junction diode A) Forward bias B) Reverse bias."
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 2. Plot V - I characteristics of Zener Diode and its application as voltage Regu",
+          "topics": "2. Plot V - I characteristics of Zener Diode and its application as voltage Regulator.\n3. Implementation of half wave and full wave rectifiers\n4. Plot Input & Output characteristics of BJT in CE and CB configurations\n5. Frequency response of CE amplifier.\n6. Simulation of RC coupled amplifier with the design supplied"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 7. Verification of Truth Table of AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates u",
+          "topics": "7. Verification of Truth Table of AND, OR, NOT, NAND, NOR, Ex-OR, Ex-NOR gates using ICs.\n8. Verification of Truth Tables of S-R, J-K& D flip flops using respective ICs.\n9. Design a Full Adder Circuit and verify the truth table. (Content beyond syllabus)\n1. R. L. Boylestad & Louis Nashlesky, Electronic Devices & Circuit Theory, Pearson Education,\n2. R. P. Jain, Modern Digital Electronics, 4th Edition, Tata Mc Graw Hill, 2009\n3. R. T. Paynter, Introductory Electronic Devices & Circuits - Conventional Flow Version, Pearson"
+        }
+      ]
+    },
+    {
+      "code": "R23CC11MC2",
+      "name": "NSS / NCC / Scouts & Guides / Community Service",
+      "credits": 0.5,
+      "l": 0,
+      "t": 0,
+      "p": 1,
+      "type": "audit",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Orientation",
+          "topics": "General Orientation on NSS/NCC/ Scouts & Guides/Community Service activities, career guidance.\nActivities:\ni) Conducting -ice breaking sessions-expectations from the course-knowing personal talents and\nskills\nii) Conducting orientations programs for the students -future plans-activities-releasing road map etc.\niii) Displaying success stories-motivational biopics- award winning movies on societal issues etc.\niv) Conducting talent show in singing patriotic songs-paintings- any other contribution."
+        },
+        {
+          "unit": 2,
+          "title": "Nature & Care Activities:",
+          "topics": "i) Best out of waste competition.\nii) Poster and signs making competition to spread environmental awareness.\niii) Recycling and environmental pollution article writing competition.\niv) Organising Zero-waste day.\nv) Digital Environmental awareness activity via various social media platforms.\nvi) Virtual demonstration of different eco-friendly approaches for sustainable living.\nvii) Write a summary on any book related to environmental issues.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 66 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 3,
+          "title": "Community Service Activities:",
+          "topics": "i) Conducting One Day Special Camp in a village contacting village-area leaders- Survey\nin the village, identification of problems- helping them to solve via media- authorities experts-etc.\nii) Conducting awareness programs on Health-related issues such as General Health,Mental health,\nSpiritual Health, HIV/AIDS.\niii) Conducting consumer Awareness. Explaining various legal provisions etc.\niv) Women Empowerment Programmes- Sexual Abuse, Adolescent Health and Population\nEducation.\nv) Any other programmes in collaboration with local charities, NGOs etc."
+        }
+      ]
+    }
+  ]
+}

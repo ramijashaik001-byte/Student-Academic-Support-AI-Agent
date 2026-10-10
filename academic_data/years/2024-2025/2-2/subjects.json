@@ -1,0 +1,381 @@
+{
+  "academic_year": "2024-2025",
+  "semester": "2-2",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 21.0,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23CC2201",
+      "name": "Managerial Economics and Financial Analysis",
+      "credits": 2.0,
+      "l": 2,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "MC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Managerial Economics",
+          "topics": "Introduction - Nature, meaning, significance, functions, and advantages. Demand-Concept,\nFunction, Law of Demand - Demand Elasticity- Types - Measurement. Demand Forecasting-\nFactors governing Forecasting, Methods. Managerial Economics and Financial Accounting and\nManagement."
+        },
+        {
+          "unit": 2,
+          "title": "Production and Cost Analysis",
+          "topics": "Introduction - Nature, mean ing, significance, functions and advantages. Production Function -\nLeast- cost combination- Short run and long run Production Function- Isoquantsand Is costs, Cost\n& Break -Even Analysis - Cost concepts and Cost behaviour - Break-Even Analysis (BEA) -\nDetermination of Break-Even Point (Simple Problems).\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 113 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 3,
+          "title": "Business Organizations and Markets",
+          "topics": "Introduction - Forms of Business Organizations- Sole Proprietary - Partnership - Joint Stock\nCompanies - Public Sector Enterprises. Types of Markets - Perfect and Imperfect\nCompetition - Features of Perfect Competition Monopoly- Monopolistic Competition-Oligopoly-\nPrice-Output Determination - Pricing Methods and Strategies"
+        },
+        {
+          "unit": 4,
+          "title": "Capital Budgeting",
+          "topics": "Introduction - Nature, meaning, significance. Types of Working Capital, Working capital cycle,\nSources of Short -term and Long -term Capital, Features, Proposals,  Methods and Evaluation.\nProjects- Pay Back Method, Accounting Rate of Return (ARR) Net Present Value (NPV) Internal\nRate Return (IRR) Method (sample problems)."
+        },
+        {
+          "unit": 5,
+          "title": "Financial Accounting and Analysis",
+          "topics": "Introduction - Concepts and Conventions - Double-Entry Bookkeeping, Journal, Ledger, Trial\nBalance- Final Accounts (Trading Account, Profit and Loss Account and Balance Sheet with simple\nadjustments). Introduction to Financial Analysis - Analysis and Interpretation of Liquidity Ratios,\nActivity Ratios, and Capital structure Ratios and Profitability."
+        }
+      ]
+    },
+    {
+      "code": "R23EC2202",
+      "name": "Linear Control Systems",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "INTRODUCTION",
+          "topics": "Concepts of System, Control Systems: Open Loop and closed loop control systems\nand their differences. Different examples of control systems, Feed -Back\nCharacteristics, Effects of feedback. Mathematical models, Differential equations,\nImpulse Response and transfer functions. Translational and Rotational mechanical\nsystems\nTransfer Function of DC Servo motor - AC Servo motor- Synchro-transmitter and\nReceiver, Block diagram representation of systems considering electrical\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 115 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nsystems as examples -Block diagram algebra -Representation by Signal flow\ngraph-Reduction using mason's gain formula"
+        },
+        {
+          "unit": 2,
+          "title": "TIME RESPONSE ANALYSIS",
+          "topics": "Standard test signals - Time response of first order systems - Characteristic\nEquation of Feedback control systems, Transient response of second order systems\n- Time domain specifications - Steady state response - Steady state errors and error\nconstants."
+        },
+        {
+          "unit": 3,
+          "title": "STABILITY ANALYSIS IN S-DOMAIN",
+          "topics": "The concept of stability - Routh's stability criterion - qualitative stability and\nconditional stability - limitations of Routh's stability\nRoot Locus Technique:\nThe root locus concept - construction of root loci-effects of adding poles and zeros\nto G(s) H(s) on the root loci."
+        },
+        {
+          "unit": 4,
+          "title": "Frequency response analysis: Introduction, Correlation between time and",
+          "topics": "frequency response, Polar Plots, Bode Plots, Nyquist Stability Criterion.\nCompensation techniques - Lag, Lead, Lead-Lag Controllers"
+        },
+        {
+          "unit": 5,
+          "title": "State Space Analysis",
+          "topics": "State Space Analysis of Continuous Systems Concepts of state, state variables\nand state model, derivation of state models from block diagrams, Diagonalization-\nSolving the Time invariant state Equations - State Transition Matrix and it's\nProperties - Concepts of Controllability and Observability."
+        }
+      ]
+    },
+    {
+      "code": "R23EC2203",
+      "name": "Electromagnetic Waves and Transmission Lines",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "REVIEW  OF  COORDINATE  SYSTEMS  &  STATIC  FIELDS",
+          "topics": "ELECTROSTATICS: Coulomb\u2018s Law, Electric Field Intensity, Electric Flux Density,\nGauss Law and Applications, Electric Field Intensity due to point charge, Infinite line charge,\nInfinite sheet of charge, Uniformly charged sphere, Electric Potential - Electric Potential due\nto point charge and infinite line charge, Energy Density, Poisson\u2018s and Laplace\u2018s Equations.\nMAGNETOSTATICS: Biot-Savart Law, Ampere\u2018s Law and Applications, Magnetic  Flux\nDensity, Magnetic Vector Potential."
+        },
+        {
+          "unit": 2,
+          "title": "MAXWELL'S EQUATIONS:",
+          "topics": "Faraday\u2018s Law and Transformer emf, Inconsistency of Ampere\u2018s Law and Displacement\nCurrent Density, Continuity Equation, Maxwell\u2018s Equations in Differential and Integral\nForms and Word Statements for static fields and time varying fields of electric and magnetic."
+        },
+        {
+          "unit": 3,
+          "title": "EM WAVES:",
+          "topics": "Types of Media, Wave Propagation in Perfect Dielectrics, Lossy (General Case - conducting)\nmedia. Uniform Plane Waves - Definition, Uniform Plane Wave Propagation in Free Space,\nPoynting Vector and Poynting Theorem, Electric and Magnetic Boundary Conditions,\nPolarization, EM Wave Normal Incidence on  Perfect Conductor and\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 117 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nDielectric, EM Wave Oblique incidence on Dielectric with Parallel and Perpendicular\nPolarizations, Brewster Angle, Critical Angle and Total Internal Reflection"
+        },
+        {
+          "unit": 4,
+          "title": "TRANSMISSION LINES -I:",
+          "topics": "Types, Parameters, Transmission Line Equations, Primary and Secondary Constants,\nExpressions for Characteristic Impedance, Propagation Constant, Phase and Group\nVelocities, Infinite Line Concepts, Lossless/Low Loss Characterization, Distortion -\nCondition for Distortion less and Minimum Attenuation, Loading - Types of Loading,"
+        },
+        {
+          "unit": 5,
+          "title": "TRANSMISSION LINES-II:",
+          "topics": "Input Impedance Relations, SC and OC Lines, Reflection Coefficient, VSWR,. UHF Lines\nas Circuit Elements; \u03bb/4, \u03bb/2 and \u03bb/8 Lines."
+        }
+      ]
+    },
+    {
+      "code": "R23EC2204",
+      "name": "Electronic Circuit Analysis",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Small Signal High Frequency Transistor Amplifier models:",
+          "topics": "BJT: Transistor at high frequencies, Hybrid- \u03c0 common emitter transistor model,\nHybrid \u03c0conductance, Hybrid \u03c0 capacitances, validity of hybrid \u03c0 model,\ndetermination of high- frequency parameters in terms of low-frequency parameters\n, CE short circuit current gain, current gain with resistive load, cut-off frequencies,\nfrequency response and gain bandwidth product.\nFET: Analysis of common Source and common drain Amplifier circuits at high\nfrequencies."
+        },
+        {
+          "unit": 2,
+          "title": "Multistage Amplifiers: Classification of amplifiers, methods of coupling ,",
+          "topics": "cascaded transistor amplifier and its analysis, analysis of two stage RC coupled\namplifier, high input resistance transistor amplifier circuits and their analysis -\nDarlington pair amplifier, Cascode amplifier, Boot -strap emitter follower,\nDifferential amplifier using BJT."
+        },
+        {
+          "unit": 3,
+          "title": "Feedback Amplifiers: Feedback principle and concept, types of feedback,",
+          "topics": "classification of amplifiers, feedback topologies, Characteristics of negative\nfeedback amplifiers, Generalized analysis of feedback amplifiers, Performance\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 119 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\ncomparison of feedback amplifiers, Method of analysis of feedback amplifiers."
+        },
+        {
+          "unit": 4,
+          "title": "Oscillators: Oscillator principle, condition for oscillations, types of oscillators,",
+          "topics": "RCphaseshiftandWienbridgeoscillatorswithBJTandFETandtheiranalysis,Generali\nzed analysis of LC Oscillators, Hartley and Colpitt's oscillators using BJT,\nFrequency and amplitude stability of oscillators."
+        },
+        {
+          "unit": 5,
+          "title": "Power Amplifiers: Classification of amplifiers(A to H), Class A power",
+          "topics": "Amplifiers, Class B Push -pull amplifiers, Complementary symmetry push pull\namplifier, Class AB power amplifier, Class-C power amplifier, Thermal stability\nand Heat sinks.\nTuned Amplifiers : Introduction, Q -Factor, small signal tuned amplifier,\ncapacitance single tuned amplifier, double tuned amplifiers, , staggered tuned\namplifiers."
+        }
+      ]
+    },
+    {
+      "code": "R23EC2205",
+      "name": "Analog Communications",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Amplitude Modulation: Introduction to Fourier transform, Introduction to",
+          "topics": "communication system, Need for modulation, Frequency Division Multiplexing,\nAmplitude Modulation, Time domain and Frequency domain descriptions,\nSingle tone modulation, Power relations in AM waves,  Generation of AM\nwaves: Square law Modulator, Switching modulator, Detection of AM Waves:\nSquare law detector, Envelope detector, Related problems."
+        },
+        {
+          "unit": 2,
+          "title": "DSB & SSB Modulation: Double sideband suppressed carrier modulator: Time",
+          "topics": "domain and frequency domain description, Generation of DSBSC Waves:\nBalanced Modulator, Ring Modulator, Detection of DSBSC Waves: Coherent\ndetection, Quadrature Null Effect, COSTAS Loop, Squaring Loop.\nSingle sideband suppressed carrier modulator: Time domain and Frequency\ndomain description, Generation of SSBSC Waves: Frequency discrimination\nmethod, Phasediscrimination method, Demodulation of SSB Waves: Coherent\nDetection.\nVestigial sideband modulation: Time domain description, Frequency domain\ndescription, Generation of VSB Modulated wave, Envelope detection of a VSB\nWave pulse Carrier, Comparison of different AM Techniques, Applications of\ndifferent AM Systems, Related problems.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 121 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 3,
+          "title": "Angle Modulation: Introduction, Basic concept of phase modulation, Frequency Modulation:",
+          "topics": "Single tone frequency modulation, Spectrum Analysis of Sinusoidal FM Wave, Narrow band\nFM, Wide band FM, Constant Average Power, Transmission bandwidth of FM Wave,\nGeneration of FM Waves: Direct Method, Indirect Method, Detection of FM Waves: Balanced\nFrequency discriminator, Zero crossing detector, Phase locked loop, Comparison of FM &\nAM, Related problems"
+        },
+        {
+          "unit": 4,
+          "title": "Radio Transmitters: Classification of Transmitters, AM Transmitter, Effect of",
+          "topics": "feedback on performance of AM Transmitter, FM Transmitter: Variable reactance\ntype and  Phase modulated FM Transmitter, Frequency  stability in FM\nTransmitter.\nRadio Receivers: Receiver Types: Tuned radio frequency receiver,  Super\nheterodyne receiver, RF section and Characteristics, Frequency changing and\ntracking, Intermediate frequency, AGC, FM Receiver, Amplitude limiting,\nComparison of FM & AM Receivers, Communication Receivers, Extension of\nsuper heterodyne principle and additional circuits."
+        },
+        {
+          "unit": 5,
+          "title": "Noise: Review of noise and noise sources, Noise figure, Noise in Analog",
+          "topics": "communicationSystems: Noise in DSB & SSB Systems, Noise in AM System and\nNoise in Angle Modulation Systems, Threshold effect in Angle Modulation\nSystem, Pre-emphasis & De-emphasis.\nPulse Analog Modulation: Types of Pulse modulation, PAM  (Single polarity,\ndouble polarity), PWM: Generation & Detection of PWM, PPM: Generation and\nDetection of PPM, Time Division Multiplexing, TDM Vs FDM."
+        }
+      ]
+    },
+    {
+      "code": "R23EC22L1",
+      "name": "Switching Theory and Logic Design Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Verify the operation and use of logic gates.",
+          "topics": "1. Verify the operation and use of logic gates.\n2. Design various combinational and sequential circuits.\n3. Illustrate and compare the operation of different flipflops.\n4. Develop the internal circuits for different digital operations."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 1. Verification of truth tables of the following Logic gates",
+          "topics": "1. Verification of truth tables of the following Logic gates\n2. Design a simple combinational circuit with four variables and obtain\n3. Verification of functional table of 3 to 8-line Decoder /De-multiplexer\n4. 4 variable logic function verification using 8 to1 multiplexer."
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 5. Design full adder circuit and verify its functional table.",
+          "topics": "5. Design full adder circuit and verify its functional table.\n6. Verification of functional tables of (i) JK Edge triggered Flip-Flop (ii) JK\n7. Design a four-bit ring counter using D Flip-Flops/JK Flip Flop and verify output.\n8. Design a four-bit Johnson's counter using D Flip-Flops/JK Flip Flops and verify"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 9. Verify the operation of 4-bit Universal Shift Register for different Modes",
+          "topics": "9. Verify the operation of 4-bit Universal Shift Register for different Modes\n10. Draw the circuit diagram of MOD-8 ripple counter and construct a circuit using\n11. Design MOD-8 synchronous counter using T Flip-Flop and verify the result\n12. (a) Draw the circuit diagram of a single bit comparator and test the output"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 1. Design BCD Adder Circuit and Test the Same using Relevant IC",
+          "topics": "1. Design BCD Adder Circuit and Test the Same using Relevant IC\n2. Design Excess-3 to 9- Complement convertor using only four Full\n3. Design an Experimental model to demonstrate the operation of 74154 De-\n4. Design of any combinational circuit using Hardware Description Language\n5. Design of any sequential circuit using Hardware Description Langu"
+        }
+      ]
+    },
+    {
+      "code": "R23EC22L2",
+      "name": "Electronic Circuit Analysis Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. The frequency response of single stage and multistage amplifiers.",
+          "topics": "1. The frequency response of single stage and multistage amplifiers.\n2. How frequency response varies by applying negative feedback on amplifiers.\n3. Working of Oscillators and Power amplifiers.\n4. Working of Tuned Amplifiers.\n1. Determination of Ft of a given transistor."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 2. Voltage-Series Feedback Amplifier",
+          "topics": "2. Voltage-Series Feedback Amplifier\n3. Current-Shunt Feedback Amplifier\n4. RC Phase Shift/Wien Bridge Oscillator\n5. Hartley/Colpitt's Oscillator\n6. Two Stage RC Coupled Amplifier"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 7. Darlington Pair Amplifier",
+          "topics": "7. Darlington Pair Amplifier\n8. Boots trapped Emitter Follower\n9. Class A Series-fed Power Amplifier\n10. Transformer-coupled Class A Power Amplifier\n11. Class B Push-Pull Power Amplifier"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 12. Complementary Symmetry Class B Push-Pull Power Amplifier",
+          "topics": "12. Complementary Symmetry Class B Push-Pull Power Amplifier\n13. Single Tuned Voltage Amplifier\n14. Double Tuned Voltage Amplifier\n1. Regulated Power supplies\n2. Analog/Digital Storage Oscilloscopes"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 3. Analog/Digital Function Generators",
+          "topics": "3. Analog/Digital Function Generators\n4. Digital Multimeters\n5. Decade R\u00e9sistance Boxes/Rheostats\n6. Decade Capacitance Boxes\n7. Ammeters (Analog or Digital)\n8. Voltmeters (Analog or Digital)\n9. Active & Passive Electronic Components"
+        }
+      ]
+    },
+    {
+      "code": "R23EC22L4",
+      "name": "Soft Skills",
+      "credits": 2.0,
+      "l": 0,
+      "t": 1,
+      "p": 2,
+      "type": "skill",
+      "cat": "SEC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "INTRODUCTION",
+          "topics": "Introduction- Emergence of life skills, Definition & Meaning, Importance& need, reasons\nfor skill gap, Analysis--Soft Skills vs Hard skills, Linkage between industry and soft skills,\nChallenges, Personality Developments. Soft Skills, English - Improving Techniques."
+        },
+        {
+          "unit": 2,
+          "title": "Intra-Personal:",
+          "topics": "Definition-Meaning - Importance-SWOT analysis, Johari windows - Goal Setting- skills\nquotient - Emotional Intelligence- Attitudinal skills - positive thinking- Problem Solving-\nTime management, stress management."
+        },
+        {
+          "unit": 3,
+          "title": "Inter-Personal:",
+          "topics": "Definition - Meaning - Importance-Communications skills- Team Work, managerial skills\n-Negotiation skills- Leadership skills, corporate etiquettes."
+        },
+        {
+          "unit": 4,
+          "title": "Verbal Skills:",
+          "topics": "Definition and Meaning -Listening skills, need - types, advantages, Importance- Tips for\nImproving Listening, Speaking, need- types, advantages, Importance- Tips for Improving\nReading- Writing Skills, Report, Resume, statement of purpose, need - types, advantages,\nImportance."
+        },
+        {
+          "unit": 5,
+          "title": "Non Verbal Skills& Interview skills",
+          "topics": "Definition and Meaning - Importance- Facial Expressions - Eye Contact - Proxemics-\nHaptics -Posture, body language in cross cultural context , body\nlanguage in interview room,  appearance and dress code - Kinetics- Para Language -\ntone, pitch, pause, neutralization of accent, use of appropriate language, Interview skills,\ninterview methods and questions.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 127 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        }
+      ]
+    },
+    {
+      "code": "R23EC22L3",
+      "name": "Design Thinking and Innovation",
+      "credits": 2.0,
+      "l": 1,
+      "t": 0,
+      "p": 2,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to Design Thinking",
+          "topics": "Introduction to elements and principles of Design, basics of design -dot, line, shape,\nform as fundamental design components. Principles of design. Introduction to design\nthinking, history of Design Thinking, New materials in Industry."
+        },
+        {
+          "unit": 2,
+          "title": "Design Thinking Process",
+          "topics": "Design thinking process (empathize, analyze, idea & prototype), implementing the\nprocess in driving inventions, design thinking in social innovations. Tools of design\nthinking - person, costumer, journey map, brainstorming, product development\nActivity: Every student presents their idea in three minutes, Every student can present\ndesign process in the form of flow diagram or flow chart etc. Every student should\nexplain about product development."
+        },
+        {
+          "unit": 3,
+          "title": "Innovation",
+          "topics": "Art of innovation, Difference between innovation and creativity, role of creativity and\ninnovation in organizations. Creativity to Innovation. Teams for innovation, Measuring\nthe impact and value of creativity.\nActivity: Debate on innovation and creativity, Flow and planning from idea to\ninnovation, Debate on value-based innovation\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 129 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 4,
+          "title": "Product Design",
+          "topics": "Problem formation, introduction to product design, Product strategies, Product value,\nProduct planning, product specifications. Innovation towards product design Case studies.\nActivity: Importance of modeling, how to set specifications, Explaining their own product\ndesign."
+        },
+        {
+          "unit": 5,
+          "title": "Design Thinking in Business Processes",
+          "topics": "Design Thinking applied in Business & Strategic Innovation, Design Thinking principles\nthat redefine business - Business challenges: Growth, Predictability, Change, Maintaining\nRelevance, Extreme competition, Standardization. Design thinking to meet corporate\nneeds. Design thinking for Startups. Defining and testing Business Models and Business\nCases. Developing & testing prototypes.\nActivity: How to market our own product, about maintenance, Reliability and plan for\nstartup."
+        }
+      ]
+    },
+    {
+      "code": "R23EC22MC",
+      "name": "Environmental Studies",
+      "credits": 0.0,
+      "l": 2,
+      "t": 0,
+      "p": 0,
+      "type": "audit",
+      "cat": "AC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Multidisciplinary Nature of Environmental Studies: - Definition, Scope and Importance - Need",
+          "topics": "for Public Awareness.\nNatural Resources : Renewable and non-renewable resources - Natural resources and associated\nproblems - Forest resources - Use and over - exploitation, deforestation, case studies - Timber\nextraction - Mining, dams and other effects on forest and tribal people - Water resources - Use\nand over utilization of surface and ground water - Floods, drought, conflicts over water, dams\n- benefits and problems - Mineral resources: Use and exploitation, environmental effects of\nextracting and using mineral resources, case studies - Food resources: World food problems,\nchanges caused by agriculture and overgrazing,effects of modern agriculture, fertilizer-pesticide\nproblems, water logging, salinity, case studies."
+        },
+        {
+          "unit": 2,
+          "title": "Ecosystems: Concept of an ecosystem. - Structure and function of an ecosystem - Producers,",
+          "topics": "consumers and decomposers - Energy flow in the ecosystem - Ecological succession - Food\nchains, food webs and ecological pyramids - Introduction, types, characteristic features, structure\nand function of the following ecosystem:\na. Forest ecosystem.\nb. Grassland ecosystem\nc. Desert ecosystem\nd. Aquatic ecosystems (ponds, streams, lakes, rivers, oceans, estuaries)\nBiodiversity and Its Conservation : Introduction and Definition: genetic, species and\necosystem diversity - Bio-geographical classification of India - Value of biodiversity:\nconsumptive use, Productive use, social, ethical, aesthetic and option values - Biodiversity at\nglobal, National and local levels - India as a mega-diversity nation - Hot-sports of\nbiodiversity - Threats to biodiversity: habitat  loss,  poaching  of  wildlife,  man-wildlife\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 132 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nconflicts - Endangered and endemic species of India - Conservation of biodiversity: In-situ and\nEx-situ conservation of biodiversity."
+        },
+        {
+          "unit": 3,
+          "title": "Environmental Pollution: Definition, Cause, effects and control measures of:",
+          "topics": "a. Air Pollution.\nb. Water pollution\nc. Soil pollution\nd. Marine pollution\ne. Noise pollution\nSolid Waste Management: Causes, effects and control measures of urban and industrial wastes\n- Role of an individual in prevention of pollution - Pollution case studies - Disaster management:\nfloods, earthquake, cyclone and landslides."
+        },
+        {
+          "unit": 4,
+          "title": "Social Issues and the Environment: From Unsustainable to Sustainable development - Urban",
+          "topics": "problems related to energy - Water conservation, rain water harvesting, watershed management\n- Resettlement and rehabilitation of people; its problems and concerns. Case studies -\nEnvironmental ethics: Issues and possible solutions - Climate change, global warming, acid rain,\nozone layer depletion, nuclear accidents and holocaust. Case Studies - Wasteland reclamation. -\nConsumerism and waste products. - Environment Protection Act. - Air (Prevention and Control\nof Pollution) Act. - Water (Prevention and control of Pollution) Act - Wildlife Protection Act -\nForest Conservation Act - Issues involved in enforcement of environmental legislation - Public\nawareness."
+        },
+        {
+          "unit": 5,
+          "title": "Human Population And The Environment: Population growth, variation among nations.",
+          "topics": "Population explosion - Family Welfare Programmes. - Environment and human health - Human\nRights - Value Education - HIV/AIDS - Women and Child Welfare - Role of information\nTechnology in Environment and human health - Case studies.\nField Work: Visit to a local area to document environmental assets River/forest\ngrassland/hill/mountain - Visit to a local polluted site-Urban/Rural/Industrial/Agricultural Study\nof common plants, insects, and birds - river, hill slopes, etc."
+        }
+      ]
+    }
+  ]
+}

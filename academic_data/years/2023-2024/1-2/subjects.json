@@ -1,0 +1,361 @@
+{
+  "academic_year": "2023-2024",
+  "semester": "1-2",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 19.5,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23CC1201",
+      "name": "Differential Equations & Vector Calculus",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Differential equations of first order and first degree",
+          "topics": "Linear differential equations - Bernoulli's equations - Exact equations and equations reducible to\nexact form - Applications: Newton's law of cooling - Law of natural growth and decay - Electrical\ncircuits."
+        },
+        {
+          "unit": 2,
+          "title": "Linear differential equations of higher order (constant coefficients)",
+          "topics": "Definitions, homogenous and non-homogenous, complimentary function,particular integral, general\nsolution - Wronskian, Method of variation  of parameters - Simultaneous linear equations -\nApplications to L-C-R circuit problems and Simple harmonic motion."
+        },
+        {
+          "unit": 3,
+          "title": "Partial differential equations",
+          "topics": "Introduction and formation of partial differential equations by elimination of arbitrary constants and\narbitrary functions - Solutions of first order linear equations using Lagrange's method -\nHomogeneous and Non-homogeneous linear partial differential equations with constant coefficients.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 69 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 4,
+          "title": "Vector differentiation",
+          "topics": "Scalar and vector point functions - Vector operator del - Del applied to scalar point functions -\nGradient, Directional derivative - Del applied to vector point functions - Divergence and Curl -\nSolenoidal vector-Irrotational-scalar potential of vector - Vector identities."
+        },
+        {
+          "unit": 5,
+          "title": "Vector integration",
+          "topics": "Line integral - Circulation - Work done - Surface integral, flux - Green's theorem in the plane\n(without proof) - Stoke's theorem (without proof) - Volume integral - Gauss divergence theorem\n(without proof) and related problems."
+        }
+      ]
+    },
+    {
+      "code": "R23CC1212",
+      "name": "Basic Civil & Mechanical Engineering",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Basics of Civil Engineering: Role of Civil Engineers in Society - Various Disciplines of Civil",
+          "topics": "Engineering- Structural Engineering - Geo-technical Engineering - Transportation Engineering -\nHydraulics and Water Resources Engineering - Environmental Engineering-Scope of each discipline\n- Building Construction and Planning- Construction Materials-Cement - Aggregate - Bricks- Cement\nconcrete- Steel. Introduction to Prefabricated construction Techniques."
+        },
+        {
+          "unit": 2,
+          "title": "Surveying: Objectives of Surveying- Horizontal Measurements- Angular Measurements- Introduction",
+          "topics": "to Bearings Levelling instruments used for levelling -Simple problems on levelling and bearings -\nContour mapping."
+        },
+        {
+          "unit": 3,
+          "title": "Transportation Engineering Importance of Transportation in Nation's economic development - Types",
+          "topics": "of Highway Pavements - Flexible Pavements and Rigid Pavements - Simple Differences. Basics of\nHarbour, Tunnel, Airport, and Railway Engineering.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 78 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nWater Resources and Environmental Engineering: Introduction, Sources of water- Quality of\nwater- Specifications- Introduction to Hydrology-Rainwater Harvesting-Water Storage and\nConveyance Structures (Simple introduction to Dams and Reservoirs)."
+        }
+      ]
+    },
+    {
+      "code": "R23CC1206",
+      "name": "Communicative English",
+      "credits": 2.0,
+      "l": 2,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lesson: HUMAN VALUES: Gift of Magi (Short Story)",
+          "topics": "Listening: Identifying the topic, the context and specific pieces of information by\nlisteningto short audio texts and answering a series of questions.\nSpeaking: Asking and answering general questions on familiar topics such as\nhome,family, work, studies and interests; introducing oneself and others.\nReading: Skimming to get the main idea of a text; scanning to look for specific\npieces ofinformation.\nWriting: Mechanics of Writing-Capitalization, Spellings, Punctuation-Parts of Sentences.\nGrammar: Parts of Speech, Basic Sentence Structures-forming questions\nVocabulary: Synonyms, Antonyms, Affixes (Prefixes/Suffixes), Root words."
+        },
+        {
+          "unit": 2,
+          "title": "Lesson: NATURE: The Brook by Alfred Tennyson (Poem)",
+          "topics": "Listening: Answering a series of questions about main ideas and supporting ideas after\nlistening to audio texts.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 71 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nSpeaking: Discussion in pairs/small groups on specific topics followed by short structuretalks.\nReading: Identifying sequence of ideas; recognizing verbal techniques that help to link the\nideas in a paragraph together.\nWriting: Structure of a paragraph - Paragraph writing (specific topics)\nGrammar: Cohesive  devices  -  linkers,  use  of  articles  and  zero  article;  prepositions.\nVocabulary: Homonyms, Homophones, Homographs."
+        },
+        {
+          "unit": 3,
+          "title": "Lesson: BIOGRAPHY: Elon Musk",
+          "topics": "Listening: Listening for global comprehension and summarizing what is listened to.\nSpeaking: Discussing specific topics in pairs or small groups and reporting what is\ndiscussed\nReading: Readinga text in detail by making basic inferences -recognizing and interpreting\nspecific context clues; strategies to use text clues for comprehension.\nWriting: Summarizing, Note-making, paraphrasing\nGrammar: Verbs - tenses; subject-verb agreement; Compound words, Collocations\nVocabulary: Compound words, Collocations"
+        },
+        {
+          "unit": 4,
+          "title": "Lesson: INSPIRATION: The Toys of Peace by Saki",
+          "topics": "Listening: Making predictions while listening to conversations/ transactional dialogues without\nvideo; listening with video.\nSpeaking: Role plays for practice of conversational English in academic contexts (formal and\ninformal) - asking for and giving information/directions.\nReading: Studying the use of graphic elements in texts to convey information, reveal\ntrends/patterns/relationships, communicate processes or display complicated data.\nWriting: Letter Writing: Official Letters, Resumes\nGrammar: Reporting verbs, Direct & Indirect speech, Active & Passive Voice\nVocabulary: Words often confused, Jargons"
+        },
+        {
+          "unit": 5,
+          "title": "Lesson: MOTIVATION: The Power of Intrapersonal Communication (An Essay)",
+          "topics": "Listening: Identifying key terms, understanding concepts and answering a series\nofrelevant questions that test comprehension.\nSpeaking: Formal oral presentations on topics from academic contexts\nReading: Reading comprehension.\nWriting: Writing structured essays on specific topics.\nGrammar: Editing short texts -identifying and correcting common errors in\ngrammar andusage (articles, prepositions, tenses, subject verb agreement)\nVocabulary: Technical Jargons\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 72 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        }
+      ]
+    },
+    {
+      "code": "R23CC1207",
+      "name": "Chemistry",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Structure and Bonding Models",
+          "topics": "Molecular orbital theory - bonding in homo- and heteronuclear diatomic molecules - energy level\ndiagrams of O 2 and CO, ,  calculation of bond order, etc. \u03c0 -molecular orbitals of butadiene and\nbenzene. Hydrogen Bonding-Inter molecular hydrogen bonding with examples -Intra molecular\nhydrogen bonding with examples."
+        },
+        {
+          "unit": 2,
+          "title": "Modern Engineering materials",
+          "topics": "Modern Engineering materials Semiconductors - Introduction, preparation (zone refining process\nand czochralski process), applications.\nSuper conductors: Introduction, types -applications.\nSupercapacitors: Introduction, Basic Concept-Classification - Applications.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 74 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nNano materials: Introduction, Preparation (arc discharge and laser ablation methods), properties and\napplications of Fullerenes, carbon nano tubes and Graphines nanoparticles."
+        },
+        {
+          "unit": 3,
+          "title": "Electrochemistry and Applications",
+          "topics": "Electrochemical cell, Electrochemical series -applications, potentiometry - potentiometric titrations\n(redox titrations), concept of conductivity, conductometric titrations (acid-base titrations).\nElectrochemical sensors: potentiometric sensors with examples.\nPrimary cells - Zinc-air battery -Secondary cells -lithium-ion -Sodium -ion batteries - Fuel cells-\nhydrogen-oxygen fuel cell, working of the batteries including cell reactions; Polymer Electrolyte\nMembrane Fuel cells (PEMFC)."
+        },
+        {
+          "unit": 4,
+          "title": "Polymer Chemistry",
+          "topics": "Introduction to polymers, chain growth and step growth polymerization, coordination polymerization,\nwith specific examples and mechanisms of free radical polymerisation.\nPlastics -Thermo plastics and Thermosetting plastics, Moulding Techniques-Compression moulding,\ninjection moulding, preparation, properties and applications of PVC and Bakelite.\nElastomers-Preparation, properties and applications of Buna-S, Buna-N.\nConducting polymers - polyacetylene, polyaniline, - mechanism of conduction and applications. Bio-\nDegradable polymers - Poly Glycolic Acid (PGA), Polyl Lactic Acid (PLA)"
+        },
+        {
+          "unit": 5,
+          "title": "Instrumental Methods and Applications",
+          "topics": "Electromagnetic spectrum, Absorption of radiation: Beer -Lambert's law. UV -Visible Spectroscopy,\nelectronic transitions, Instrumentation, and applications. FT -IR Instrumentation and applications.\nNMR principle-Instrumentation -applications."
+        }
+      ]
+    },
+    {
+      "code": "R23EC1211",
+      "name": "Network Analysis",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "1",
+          "topics": "Types of circuit components, Types of Sources and Source Transformations, Mesh analysis\nand Nodal analysis, problem solving with resistances only including dependent sources also.\nPrincipal of Duality with examples.\nNetwork Theorems: Thevenin's, Norton's, Milliman's, Reciprocity, Compensation,\nSubstitution, Superposition, Max Power Transfer, Tellegens - problem solving using dependent\nsources also."
+        },
+        {
+          "unit": 2,
+          "title": "Transients: First order differential equations, Definition of time constants, R -L circuit, R -C",
+          "topics": "circuit with DC excitation, evaluating initial conditions procedure, second order differential\nequations, homogeneous, non -homogenous, problem -solving using R -L-C elements with DC\nexcitation and AC excitation, Response as related to s-plane rotation of roots.\nLaplace transform: introduction, Laplace transformation, basic theorems, problem solving\nusing Laplace transform, partial fraction expansion, Heaviside's expansions, problem solving using\nLaplace transform.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 76 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 3,
+          "title": "Steady State Analysis of A.C Circuits: Impedance concept, phase angle, series R -L, R-C, R-",
+          "topics": "L- C circuits problem solving. Complex impedance and phasor notation for R -L, R -C, R -L-C\nproblem solving using mesh and nodal analysis, Star -Delta conversion, proble m solving using\nLaplace transforms also."
+        },
+        {
+          "unit": 4,
+          "title": "Resonance: Introduction, Definition of Q, Series resonance, Bandwidth of series resonance,",
+          "topics": "Parallel resonance, general case-resistance present in both branches, anti-resonance at all frequencies.\nCoupled Circuits: Coupled Circuits: Self -inductance, Mutual inductance, Coefficient of coupling,\nanalysis of coupled circuits, Natural current, Dot rule of coupled circuits, conductively coupled\nequivalent circuits- problem solving."
+        },
+        {
+          "unit": 5,
+          "title": "Two-port Networks: Relationship of two port networks, Z-parameters, Y-parameters, Transmission",
+          "topics": "line parameters, h- parameters, Relationships Between parameter Sets, Parallel & series connection\nof two port networks, cascading of two port networks, problem solving using dependent sources also.\nImage and iterative impedances. Image and iterative transfer constants. Insertion loss. Attenuators\nand pads. Lattice network and its parameters. Impedance matching networks."
+        }
+      ]
+    },
+    {
+      "code": "R23EC12L6",
+      "name": "Network Analysis and Simulation Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Study of components of a circuit and Verification of KCL and KVL.",
+          "topics": "1. Study of components of a circuit and Verification of KCL and KVL.\n2. Verification of mesh and nodal analysis for AC circuits"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 3. Verification of Superposition, Thevenin's & Norton theorems for AC circuits",
+          "topics": "3. Verification of Superposition, Thevenin's & Norton theorems for AC circuits\n4. Verification of maximum power transfer theorem for AC circuits"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 5. Verification of Tellegen's theorem for two networks of the same topology.",
+          "topics": "5. Verification of Tellegen's theorem for two networks of the same topology.\n6. Study of DC transients in RL, RC and RLC circuits"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 7. To study frequency response of various 1st order RL & RC networks",
+          "topics": "7. To study frequency response of various 1st order RL & RC networks\n8. To study the transient and steady state response of a 2nd order circuit by"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 9. Find the Q Factor and Bandwidth of a Series and Parallel Resonance circuit.",
+          "topics": "9. Find the Q Factor and Bandwidth of a Series and Parallel Resonance circuit.\n10. Determination of open circuit (Z) and short circuit (Y) parameters\n11. Determination of hybrid (H) and transmission (ABCD) parameters\n12. To measure two port parameters of a twin-T network and study its frequency response.\n1. Network Analysis - ME Van Valkenburg, Prentice Hall of India, revised 3rd\n2. Engineering Circuit Analysis by William H. Hayt, Jack Kemmerly, Jamie"
+        }
+      ]
+    },
+    {
+      "code": "R23CC12L9",
+      "name": "Engineering Workshop",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Demonstration: Safety practices and precautions to be observed in workshop.",
+          "topics": "1. Demonstration: Safety practices and precautions to be observed in workshop."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 2. Wood Working: Familiarity with different types of woods and tools used in woo",
+          "topics": "2. Wood Working: Familiarity with different types of woods and tools used in wood"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 3. Sheet Metal Working: Familiarity with different types of tools used in sheet ",
+          "topics": "3. Sheet Metal Working: Familiarity with different types of tools used in sheet metal"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 4. Fitting: Familiarity with different types of tools used in fitting and do the",
+          "topics": "4. Fitting: Familiarity with different types of tools used in fitting and do the following"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 5. Electrical Wiring: Familiarity with different types of basic electrical circu",
+          "topics": "5. Electrical Wiring: Familiarity with different types of basic electrical circuits and make\n6. Foundry Trade: Demonstration and practice on Moulding tools and processes,\n7. Welding Shop: Demonstration and practice on Arc Welding and Gas welding.\n8. Plumbing: Demonstration and practice of Plumbing tools, Preparation of Pipe joints\n9. Demonstration and basic repair works of two wheeler vehicle"
+        }
+      ]
+    },
+    {
+      "code": "R23CC12L10",
+      "name": "Chemistry Lab",
+      "credits": 1.0,
+      "l": 0,
+      "t": 0,
+      "p": 2,
+      "type": "lab",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Determination of hardness of water sample by EDTA method",
+          "topics": "1. Determination of hardness of water sample by EDTA method\n2. Determination of alkalinity of water sample\n3. Estimation of Dissolved Oxygen by Winkler's method"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 4. Estimation of Ferrous Iron by Dichrometry",
+          "topics": "4. Estimation of Ferrous Iron by Dichrometry\n5. Determination of Strength of an acid in Pb-Acid battery\n6. Estimation of Mg in Antacid"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 7. Estimation of Vitamin C",
+          "topics": "7. Estimation of Vitamin C\n8. Preparation of a polymer (Bakelite)/urea formaldehyde resin.\n9. Preparation of nanomaterials by precipitation method"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 10. Conductometric titration of strong acid vs. strong base",
+          "topics": "10. Conductometric titration of strong acid vs. strong base\n11. Conductometric titration of weak acid vs. strong base\n12. Determination of cell constant and conductance of solutions"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 13. Potentiometry - determination of redox potentials and emfs",
+          "topics": "13. Potentiometry - determination of redox potentials and emfs\n14. Verify Lambert-Beer's law\n15. Wavelength measurement of sample through UV-Visible Spectroscopy"
+        }
+      ]
+    },
+    {
+      "code": "R23CC12L12",
+      "name": "Communicative English Lab",
+      "credits": 1.0,
+      "l": 0,
+      "t": 0,
+      "p": 2,
+      "type": "lab",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Vowels & Consonants",
+          "topics": "1. Vowels & Consonants\n2. Neutralization/Accent Rules\n3. Communication Skills & JAM\n4. Role Play or Conversational Practice\n5. E-mail Writing"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 6. Resume Writing, Cover letter, SOP",
+          "topics": "6. Resume Writing, Cover letter, SOP\n7. Group Discussions-methods & practice\n8. Debates - Methods & Practice\n9. PPT Presentations/ Poster Presentation\n10. Interviews Skills"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 1. Raman Meenakshi, Sangeeta-Sharma. Technical Communication. Oxford Press.2018.",
+          "topics": "1. Raman Meenakshi, Sangeeta-Sharma. Technical Communication. Oxford Press.2018.\n2. Taylor Grant: English Conversation Practice, Tata McGraw-Hill Education\n3. Hewing's, Martin. Cambridge Academic English (B2). CUP, 2012.\n4. J. Sethi & P.V. Dhamija. A Course in Phonetics and Spoken English, (2nd\n1. www.esl-lab.com"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 2. www.englishmedialab.com",
+          "topics": "2. www.englishmedialab.com\n3. www.englishinteractive.net\n4. https://www.britishcouncil.in/english/online\n5. http://www.letstalkpodcast.com/\n6. https://www.youtube.com/c/mmmEnglish_Emma/featured"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 7. https://www.youtube.com/c/ArnelsEverydayEnglish/featured",
+          "topics": "7. https://www.youtube.com/c/ArnelsEverydayEnglish/featured\n8. https://www.youtube.com/c/engvidAdam/featured\n9. https://www.youtube.com/c/EnglishClass101/featured\n10. https://www.youtube.com/c/SpeakEnglishWithTiffani/playlists\n11. https://www.youtube.com/channel/UCV1h_cBE0Drdx19qkTM0WNw\n1. https://www.youtube.com/user/letstalkaccent/videos\n2. https://www.youtube.com/c/EngLanguageClub/featured\n3. https://www.youtube.com/channel/UC_OskgZBoS4dAnVUgJVexc\n4. https://www.youtube.com/channel/UCNfm92h83W2i2ijc5Xwp_IA"
+        }
+      ]
+    },
+    {
+      "code": "R23CC12MC1",
+      "name": "Health And Wellness, Yoga And Sports",
+      "credits": 0.5,
+      "l": 0,
+      "t": 0,
+      "p": 1,
+      "type": "audit",
+      "cat": "BS&H",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Concept of health and fitness, Nutrition and Balanced diet, basic concept of immunity",
+          "topics": "Relationship between diet and fitness, Globalization and its impact on health, Body Mass Index\n(BMI) of all age groups.\nActivities:\ni) Organizing health awareness programmes in community\nii) Preparation of health profile\niii) Preparation of chart for balance diet for all age groups"
+        },
+        {
+          "unit": 2,
+          "title": "Concept of yoga, need for and importance of yoga, origin and history of yoga in Indian context,",
+          "topics": "classification of yoga, Physiological effects of Asanas- Pranayama and meditation, stress\nmanagement and yoga, Mental health and yoga practice.\nActivities:\nYoga practices - Asana, Kriya, Mudra, Bandha, Dhyana, Surya Namaskar"
+        },
+        {
+          "unit": 3,
+          "title": "Concept of Sports and fitness, importance, fitness components, history of sports, Ancient and",
+          "topics": "Modern Olympics, Asian games and Commonwealth games.\nActivities:\ni) Participation in one major game and one individual sport viz., Athletics, Volleyball,\nBasketball, Handball, Football, Badminton, Kabaddi, Kho-kho, Table tennis, Cricket"
+        }
+      ]
+    }
+  ]
+}

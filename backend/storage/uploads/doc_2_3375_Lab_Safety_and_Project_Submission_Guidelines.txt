@@ -1,0 +1,28 @@
+# CENTRAL UNIVERSITY - COMPUTER LABORATORY SAFETY & PROJECT GUIDELINES
+Document ID: CUET/LAB/GUIDELINES/2026
+
+1. GENERAL LAB PROTOCOLS
+- All students must wear designated college ID badges and check in with the lab technician upon entry.
+- Eating, drinking, or open beverages are strictly prohibited near terminal workstations.
+- Workstations must be shut down and chairs arranged before leaving the premises.
+- Standard computer lab timings: Monday to Friday, 8:30 AM to 6:30 PM. Saturday open access: 9:00 AM to 1:00 PM.
+
+2. SOFTWARE & NETWORK USAGE POLICY
+- Installing unauthorized cracked tools, peer-to-peer torrent software, or cryptocurrency miners is strictly banned.
+- All lab machines are equipped with Linux Ubuntu 24.04 LTS and Windows 11 dual boot environments.
+- Default developer toolchains provided: Python 3.12, Node.js v24, GCC 13, Docker Engine, PostgreSQL 16.
+- Cloud cluster access for deep learning workloads requires prior approval from Dr. Anita.
+
+3. ACADEMIC INTEGRITY & CODE PLAGIARISM PENALTIES
+- All code submissions for assignments and projects are processed through automated MOSS (Measure of Software Similarity) checks.
+- Similarity index exceeding 25% with peer submissions or online repositories without explicit attribution results in:
+  * First offense: Zero marks for the assignment and formal warning on institutional student record.
+  * Second offense: Deduction of one full letter grade in the course and escalation to the Academic Disciplinary Committee.
+- GenAI assistance (ChatGPT, Gemini, GitHub Copilot) is permitted ONLY for code explanation and syntax debugging, NOT for copy-pasting entire assignment solutions.
+
+4. PROJECT SUBMISSION CHECKLIST
+- Projects must include:
+  1. Complete source code repository with clean Git commit history.
+  2. README.md with clear build and local execution instructions.
+  3. Video walkthrough (2-4 minutes) demonstrating key capabilities.
+  4. Project report in PDF format following the standard university formatting template.

@@ -1,0 +1,343 @@
+@import "tailwindcss";
+
+:root {
+  --theme-bg-body: #FAF9F6;
+  --theme-bg-card: #FFFFFF;
+  --theme-bg-subtle: #F5F3FF;
+  --theme-border: #E8E6E1;
+  --theme-border-subtle: #F0EFEA;
+  --theme-text-primary: #2D3139;
+  --theme-text-secondary: #5A606D;
+  --theme-text-muted: #8E939E;
+  --theme-accent: #5B4F8A;
+  --theme-accent-hover: #4E4377;
+  --theme-accent-light: #EBE5FC;
+  --theme-accent-border: #DDD6FE;
+  --theme-surface-active: #F3F0FF;
+}
+
+@layer base {
+  body {
+    background-color: var(--theme-bg-body);
+    color: var(--theme-text-primary);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+}
+
+/* ==========================================================================
+   1. MODERN DARK THEME (Sleek Obsidian & Slate)
+   ========================================================================== */
+[data-theme="dark"] {
+  --theme-bg-body: #0B0F19;
+  --theme-bg-card: #131B2A;
+  --theme-bg-subtle: #1A2438;
+  --theme-border: #222F44;
+  --theme-border-subtle: #1B2637;
+  --theme-text-primary: #F8FAFC;
+  --theme-text-secondary: #CBD5E1;
+  --theme-text-muted: #7E8C9F;
+  --theme-accent: #6366F1;
+  --theme-accent-hover: #4F46E5;
+  --theme-accent-light: #1E2338;
+  --theme-accent-border: #3B4263;
+  --theme-surface-active: #1D283A;
+}
+
+[data-theme="dark"] body {
+  background-color: #0B0F19 !important;
+  color: #F8FAFC !important;
+}
+
+[data-theme="dark"] header,
+[data-theme="dark"] aside,
+[data-theme="dark"] .bg-white {
+  background-color: #131B2A !important;
+  color: #F8FAFC !important;
+}
+
+[data-theme="dark"] .bg-\[\#FAF9F6\],
+[data-theme="dark"] .bg-\[\#F8F7F4\],
+[data-theme="dark"] .bg-\[\#FBFBFA\] {
+  background-color: #0B0F19 !important;
+}
+
+[data-theme="dark"] .bg-\[\#F5F3FF\],
+[data-theme="dark"] .bg-\[\#F3F0FF\] {
+  background-color: #162133 !important;
+  border-color: #27374D !important;
+}
+
+[data-theme="dark"] .bg-\[\#EBE5FC\] {
+  background-color: #20243C !important;
+  color: #A5B4FC !important;
+  border-color: #373D63 !important;
+}
+
+[data-theme="dark"] .bg-\[\#E2EBE5\] {
+  background-color: #0F2D24 !important;
+  color: #6EE7B7 !important;
+  border-color: #1D4C3E !important;
+}
+
+[data-theme="dark"] .bg-\[\#E1EDF8\] {
+  background-color: #0F2742 !important;
+  color: #7DD3FC !important;
+  border-color: #1E446B !important;
+}
+
+[data-theme="dark"] .border-\[\#E8E6E1\],
+[data-theme="dark"] .border-\[\#E2DFD7\],
+[data-theme="dark"] .border-\[\#F0EFEA\],
+[data-theme="dark"] .border-\[\#DDD6FE\],
+[data-theme="dark"] .border-\[\#D1E0D7\],
+[data-theme="dark"] .border-\[\#CEE3F5\],
+[data-theme="dark"] .border-\[\#E0D7FA\] {
+  border-color: #222F44 !important;
+}
+
+[data-theme="dark"] .text-\[\#2D3139\],
+[data-theme="dark"] .text-\[\#3E434D\],
+[data-theme="dark"] h1, [data-theme="dark"] h2, [data-theme="dark"] h3, [data-theme="dark"] h4 {
+  color: #F8FAFC !important;
+}
+
+[data-theme="dark"] .text-\[\#4B515D\],
+[data-theme="dark"] .text-\[\#5A606D\],
+[data-theme="dark"] .text-\[\#4B5563\],
+[data-theme="dark"] p {
+  color: #CBD5E1 !important;
+}
+
+[data-theme="dark"] .text-\[\#6B7280\],
+[data-theme="dark"] .text-\[\#6C727F\],
+[data-theme="dark"] .text-\[\#8E939E\],
+[data-theme="dark"] .text-\[\#9CA3AF\] {
+  color: #8896AA !important;
+}
+
+[data-theme="dark"] .text-\[\#5B4F8A\],
+[data-theme="dark"] .text-\[\#4C3B78\],
+[data-theme="dark"] .text-\[\#53467F\],
+[data-theme="dark"] .text-\[\#7C6EB0\] {
+  color: #A5B4FC !important;
+}
+
+[data-theme="dark"] .text-\[\#344E41\] {
+  color: #6EE7B7 !important;
+}
+
+[data-theme="dark"] .text-\[\#2B4C6F\] {
+  color: #7DD3FC !important;
+}
+
+[data-theme="dark"] .bg-\[\#5B4F8A\] {
+  background-color: #6366F1 !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme="dark"] .hover\:bg-\[\#4E4377\]:hover,
+[data-theme="dark"] .bg-\[\#5B4F8A\]:hover {
+  background-color: #4F46E5 !important;
+}
+
+[data-theme="dark"] input,
+[data-theme="dark"] textarea,
+[data-theme="dark"] select {
+  background-color: #172133 !important;
+  color: #F8FAFC !important;
+  border-color: #27374D !important;
+}
+
+[data-theme="dark"] input::placeholder,
+[data-theme="dark"] textarea::placeholder {
+  color: #5E6E85 !important;
+}
+
+[data-theme="dark"] code {
+  background-color: #1A2438 !important;
+  color: #C7D2FE !important;
+}
+
+/* ==========================================================================
+   2. CLASSIC TECH INDIGO THEME
+   ========================================================================== */
+[data-theme="indigo"] {
+  --theme-bg-body: #F8FAFC;
+  --theme-bg-card: #FFFFFF;
+  --theme-bg-subtle: #EEF2FF;
+  --theme-border: #E2E8F0;
+  --theme-border-subtle: #F1F5F9;
+  --theme-text-primary: #0F172A;
+  --theme-text-secondary: #475569;
+  --theme-text-muted: #64748B;
+  --theme-accent: #4F46E5;
+  --theme-accent-hover: #4338CA;
+  --theme-accent-light: #EEF2FF;
+  --theme-accent-border: #C7D2FE;
+  --theme-surface-active: #EEF2FF;
+}
+
+[data-theme="indigo"] body {
+  background-color: #F8FAFC !important;
+  color: #0F172A !important;
+}
+
+[data-theme="indigo"] .bg-\[\#FAF9F6\],
+[data-theme="indigo"] .bg-\[\#F8F7F4\],
+[data-theme="indigo"] .bg-\[\#FBFBFA\] {
+  background-color: #F8FAFC !important;
+}
+
+[data-theme="indigo"] .bg-\[\#F5F3FF\],
+[data-theme="indigo"] .bg-\[\#F3F0FF\] {
+  background-color: #EEF2FF !important;
+  border-color: #C7D2FE !important;
+}
+
+[data-theme="indigo"] .bg-\[\#EBE5FC\] {
+  background-color: #EEF2FF !important;
+  color: #3730A3 !important;
+  border-color: #C7D2FE !important;
+}
+
+[data-theme="indigo"] .border-\[\#E8E6E1\],
+[data-theme="indigo"] .border-\[\#E2DFD7\],
+[data-theme="indigo"] .border-\[\#F0EFEA\] {
+  border-color: #E2E8F0 !important;
+}
+
+[data-theme="indigo"] .text-\[\#2D3139\],
+[data-theme="indigo"] .text-\[\#3E434D\] {
+  color: #0F172A !important;
+}
+
+[data-theme="indigo"] .text-\[\#5B4F8A\],
+[data-theme="indigo"] .text-\[\#4C3B78\],
+[data-theme="indigo"] .text-\[\#53467F\],
+[data-theme="indigo"] .text-\[\#7C6EB0\] {
+  color: #4F46E5 !important;
+}
+
+[data-theme="indigo"] .bg-\[\#5B4F8A\] {
+  background-color: #4F46E5 !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme="indigo"] .hover\:bg-\[\#4E4377\]:hover,
+[data-theme="indigo"] .bg-\[\#5B4F8A\]:hover {
+  background-color: #4338CA !important;
+}
+
+/* ==========================================================================
+   3. CAMPUS EMERALD THEME
+   ========================================================================== */
+[data-theme="emerald"] {
+  --theme-bg-body: #F2F9F5;
+  --theme-bg-card: #FFFFFF;
+  --theme-bg-subtle: #E8F5E9;
+  --theme-border: #D1E7DD;
+  --theme-border-subtle: #E8F5E9;
+  --theme-text-primary: #0F291E;
+  --theme-text-secondary: #244637;
+  --theme-text-muted: #4B6E5E;
+  --theme-accent: #1B4332;
+  --theme-accent-hover: #143527;
+  --theme-accent-light: #E8F5E9;
+  --theme-accent-border: #A5D6A7;
+  --theme-surface-active: #E8F5E9;
+}
+
+[data-theme="emerald"] body {
+  background-color: #F2F9F5 !important;
+  color: #0F291E !important;
+}
+
+[data-theme="emerald"] .bg-\[\#FAF9F6\],
+[data-theme="emerald"] .bg-\[\#F8F7F4\],
+[data-theme="emerald"] .bg-\[\#FBFBFA\] {
+  background-color: #F2F9F5 !important;
+}
+
+[data-theme="emerald"] .bg-\[\#F5F3FF\],
+[data-theme="emerald"] .bg-\[\#F3F0FF\],
+[data-theme="emerald"] .bg-\[\#EBE5FC\] {
+  background-color: #E8F5E9 !important;
+  border-color: #C8E6C9 !important;
+  color: #1B4332 !important;
+}
+
+[data-theme="emerald"] .border-\[\#E8E6E1\],
+[data-theme="emerald"] .border-\[\#E2DFD7\],
+[data-theme="emerald"] .border-\[\#F0EFEA\] {
+  border-color: #D1E7DD !important;
+}
+
+[data-theme="emerald"] .text-\[\#2D3139\],
+[data-theme="emerald"] .text-\[\#3E434D\] {
+  color: #0F291E !important;
+}
+
+[data-theme="emerald"] .text-\[\#5B4F8A\],
+[data-theme="emerald"] .text-\[\#4C3B78\],
+[data-theme="emerald"] .text-\[\#53467F\],
+[data-theme="emerald"] .text-\[\#7C6EB0\] {
+  color: #1B4332 !important;
+}
+
+[data-theme="emerald"] .bg-\[\#5B4F8A\] {
+  background-color: #1B4332 !important;
+  color: #FFFFFF !important;
+}
+
+[data-theme="emerald"] .hover\:bg-\[\#4E4377\]:hover,
+[data-theme="emerald"] .bg-\[\#5B4F8A\]:hover {
+  background-color: #143527 !important;
+}
+
+/* ==========================================================================
+   4. SOFT PASTEL THEME (Default Soft Lavender & Sage)
+   ========================================================================== */
+[data-theme="pastel"] {
+  --theme-bg-body: #FAF9F6;
+  --theme-bg-card: #FFFFFF;
+  --theme-bg-subtle: #F5F3FF;
+  --theme-border: #E8E6E1;
+  --theme-border-subtle: #F0EFEA;
+  --theme-text-primary: #2D3139;
+  --theme-text-secondary: #5A606D;
+  --theme-text-muted: #8E939E;
+  --theme-accent: #5B4F8A;
+  --theme-accent-hover: #4E4377;
+  --theme-accent-light: #EBE5FC;
+  --theme-accent-border: #DDD6FE;
+  --theme-surface-active: #F3F0FF;
+}
+
+/* Custom smooth calm scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: #2A3A52;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: #3B4E6C;
+}

@@ -1,0 +1,287 @@
+{
+  "academic_year": "2024-2025",
+  "semester": "2-1",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 20.0,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23EC2101",
+      "name": "Probability Theory and Stochastic Process",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "BS",
+      "units": [
+        {
+          "unit": 1,
+          "title": "PROBABILITY AND RANDOM VARIABLE",
+          "topics": "Probability introduced through Sets and Relative Frequency: Experiments and Sample Spaces,\nDiscrete and Continuous Sample Spaces, Events, Probability Definitions and Axioms, Joint\nProbability, Conditional Probability, Total Probability, Bay's Theorem, Inde pendent Events.\nDefinition of a Random Variable, Conditions for a Function to be a Random Variable, Discrete,\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 92 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nContinuous and Mixed Random Variables, Distribution and Density  functions, Properties, Binomial,\nPoisson, Uniform, Gaussian, Exponential, Rayleigh, Conditional Distribution, Conditional Density,\nProperties."
+        },
+        {
+          "unit": 2,
+          "title": "OPERATION ON ONE RANDOM VARIABLE - EXPECTATIONS",
+          "topics": "Introduction, Expected Value of a Random Variable, Function of a Random Variable, Moments about\nthe Origin, Central Moments, Variance and Skew, Chebychev's Inequality, Characteristic Function,\nMoment Generating Function, Transformations of a Random Variabl e: Monotonic Transformations\nfor a Continuous Random Variable, Non -monotonic Transformations of  Continuous Random\nVariable."
+        },
+        {
+          "unit": 3,
+          "title": "MULTIPLE RANDOM VARIABLES",
+          "topics": "Vector Random Variables, Joint Distribution Function, Properties of Joint Distribution, Marginal\nDistribution Functions, Conditional Distribution and Density, Statistical Independence, Sum of Two\nRandom Variables, Sum of Several Random Variables, Central Limit Theorem: Unequal Distribution,\nEqual Distributions.\nOperations on Multiple Random Variables : Joint Moments about the Origin, Joint Central\nMoments, Joint Characteristic Functions, Jointly Gaussian Random Variables: Two Random Variables\ncase, N Random Variables case, Properties, Transformations of Multiple Random Variables, Linear\nTransformations of Gaussian Random Variables."
+        },
+        {
+          "unit": 4,
+          "title": "RANDOM PROCESSES - TEMPORAL CHARACTERISTICS",
+          "topics": "The Random Process Concept, Classification of Processes, Deterministic and Non -deterministic\nProcesses, Distribution and Density Functions, Concept of Stationarity  and Statistical Independence.\nFirst-Order Stationary Processes, Second - Order and Wide-Sense Stationarity, Nth -order and Strict -\nSense Stationarity, Time Averages and Ergodicity, Autocorrelation Function and its Properties, Cross-\nCorrelation Function and its Properties, Covariance Functions, Gaussian Random Processes, Poisson\nRandom Process."
+        },
+        {
+          "unit": 5,
+          "title": "RANDOM PROCESSES - SPECTRAL CHARACTERISTICS",
+          "topics": "The Power Spectrum: Properties, Relationship between Power Spectrum and Autocorrelation\nFunction, The Cross -Power Density Spectrum, Properties, Relationship between Cross -Power\nSpectrum and Cross-Correlation Function.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 93 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        }
+      ]
+    },
+    {
+      "code": "R23CC2102",
+      "name": "Universal Human Values \u2013 Understanding Harmony and Ethical Human Conduct",
+      "credits": 3.0,
+      "l": 2,
+      "t": 1,
+      "p": 0,
+      "type": "theory",
+      "cat": "HSMC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to Value Education (6 lectures and 3 tutorials for",
+          "topics": "practice session)\nLecture 1: Right Understanding, Relationship and Physical Facility\n(HolisticDevelopment and the Role of Education)\nLecture 2: Understanding Value Education\nTutorial 1: Practice Session PS1 Sharing about Oneself\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 95 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nLecture 3: self-exploration as the Process for\nValue Education\nLecture4: Continuous Happiness and Prosperity - the Basic\nHumanAspirations\nTutorial 2: Practice Session PS2 Exploring Human Consciousness.\nLecture 5: Happiness and Prosperity - Current\nScenario Lecture 6: Method to Fulfill the Basic\nHuman Aspirations Tutorial 3: Practice Session\nPS3 Exploring Natural Acceptance"
+        },
+        {
+          "unit": 2,
+          "title": "Harmony in the Human Being (6 lectures and 3 tutorials for",
+          "topics": "practice session) Lecture 7: Understanding Human being as the\nCo-existence of the self and thebody.\nLecture 8: Distinguishing between the Needs of the self and the body\nTutorial 4: Practice Session PS4 Exploring the difference of\nNeeds of self andbody.\nLecture 9: The body as an Instrument\nof the selfLecture 10: Understanding\nHarmony in the self\nTutorial 5: Practice Session PS5 Exploring Sources of\nImagination in the selfLecture 11: Harmony of the self with the\nbody\nLecture 12: Programme to ensure self-regulation and Health\nTutorial 6: Practice Session PS6 Exploring Harmony of self with the body."
+        },
+        {
+          "unit": 3,
+          "title": "Harmony in the Family and Society (6 lectures and 3 tutorials",
+          "topics": "for practicesession)\nLecture 13: Harmony in the Family - the Basic Unit of Human\nInteractionLecture 14: 'Trust' - the Foundational Value in\nRelationship\nTutorial 7: Practice Session PS7 Exploring the Feeling of\nTrustLecture 15: 'Respect' - as the Right Evaluation\nTutorial 8: Practice Session PS8 Exploring the Feeling of\nRespect Lecture 16: Other Feelings, Justice in Human-to-\nHuman RelationshipLecture 17: Understanding Harmony in\nthe Society\nLecture 18: Vision for the Universal Human Order\nTutorial 9: Practice Session PS9 Exploring Systems to fulfil Human Goal"
+        },
+        {
+          "unit": 4,
+          "title": "Harmony in the Nature/Existence (4 lectures and 2 tutorials for",
+          "topics": "practicesession)\nLecture 19: Understanding Harmony in the Nature\nLecture 20: Interconnectedness, self-regulation and Mutual\nFulfilment amongthe Four Orders of Nature\nTutorial 10: Practice Session PS10 Exploring the Four\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 96 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nOrders of NatureLecture 21: Realizing Existence as Co-\nexistence at All Levels\nLecture 22: The Holistic Perception of Harmony in Existence\nTutorial 11: Practice Session PS11 Exploring Co-existence in Existence."
+        },
+        {
+          "unit": 5,
+          "title": "Implications of the Holistic Understanding - a Look at",
+          "topics": "Professional Ethics (6lectures and 3 tutorials for practice session)\nLecture 23: Natural Acceptance of Human\nValues\nLecture 24: Definitiveness of (Ethical)\nHuman Conduct\nTutorial 12: Practice Session PS12 Exploring Ethical Human Conduct\nLecture 25: A Basis for Humanistic Education, Humanistic\nConstitution andUniversal Human Order\nLecture 26: Competence in Professional Ethics\nTutorial 13: Practice Session PS13 Exploring Humanistic Models in\nEducation Lecture 27: Holistic Technologies, Production Systems\nand Management Models-Typical Case Studies\nLecture 28: Strategies for Transition towards Value-based Life\nand Profession Tutorial 14: Practice Session PS14 Exploring\nSteps of Transition towardsUniversal Human Order\nPractice Sessions for"
+        }
+      ]
+    },
+    {
+      "code": "R23EC2103",
+      "name": "Signals and Systems",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "SIGNAL ANALYSIS & SAMPLING:",
+          "topics": "Classification of Signals: Analog, Discrete, Digital, Deterministic & Random, Periodic & Aperiodic,\nEven & Odd, Energy & Power signals. Basic Operations on Signals: Time -Shifting, Time-Scaling,\nTime-Reversal, Amplitude Scaling and Signal Addition. Elementa ry Signals: Unit Step, Unit Ramp,\nUnit Parabolic, Impulse, Sinusoidal function, Exponential function, Gate function, Triangular\nfunction, Sinc function and Signum function, Convolution, Correlation, Relation between convolution\n& correlation.\nSampling: Sampling theorem, Types of Sampling: Impulse Sampling, Natural and flattop Sampling,\nReconstruction of signal from its samples, Effect of under sampling - Aliasing"
+        },
+        {
+          "unit": 2,
+          "title": "ORTHOGONAL FUNCTIONS & FOURIER SERIES:",
+          "topics": "Orthogonal Functions: Signal approximation using orthogonal functions, Mean square error,\nOrthogonality in complex functions.\nFourier series: Representation of Fourier series, Continuous time periodic signals, Properties of\nFourier Series, Dirichlet conditions, Trigonometric Fourier Series and Exponential Fourier Series,\nConversion of Exponential Fourier Series from Trigonometric Fourier series."
+        },
+        {
+          "unit": 3,
+          "title": "FOURIER TRANSFORMS:",
+          "topics": "Deriving Fourier Transform from Fourier series, Fourier Transform of arbitrary signal, Fourier\nTransform of standard signals, Fourier Transform of periodic signals. Properties of Fourier Transform,\nFourier Transforms involving Impulse function and Signum f unction, Introduction to Hilbert\nTransform.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 99 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 4,
+          "title": "LAPLACE TRANSFORMS AND Z- TRANSFORMS:",
+          "topics": "Laplace Transforms: Laplace transforms, Partial fraction expansion, Inverse Laplace transform,\nConcept of Region of Convergence (ROC), Constraints on ROC for various classes of signals,\nProperties of Laplace transforms, Relation between Laplace transform and Fourier transform.\nZ-Transforms: Concept of Z -transform of a discrete sequence, Region of convergence in Z -\nTransform, constraints on ROC for various classes of signals, inverse Z -transform, properties of Z -\nTransforms."
+        },
+        {
+          "unit": 5,
+          "title": "SIGNAL TRANSMISSION THROUGH LINEAR SYSTEMS:",
+          "topics": "Signal transmission through linear systems: System and its types: Linear & Non -Linear, Time\nVariant & Time Invariant, Causal & Non Causal, Static & Dynamic, Stable & Unstable. Impulse\nresponse of a linear time invariant (LTI) system and linear time variant (LTV) system, Transfer\nfunction of a LTI system, Filter characteristics of linear systems, Distortion less transmission through\na system, Signal bandwidth, System bandwidth, Ideal LPF, HPF and BPF and its characteristics."
+        }
+      ]
+    },
+    {
+      "code": "R23EC2104",
+      "name": "Electronic Devices and Circuits",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "PN JUNCTION DIODE CHARACTERISTICS:",
+          "topics": "Insulators, Semiconductors and Metals -Classification using Energy gap, Intrinsic and Extrinsic\nSemiconductors. P -N Junction Diode - Formation of P -N Junction, Open Circuited P -N Junction,\nBiased P-N Junction - Forward Bias, Reverse Bias, Current Components in PN Junction Diode, Law\nof Junction, Diode Current Equation - Quantitative Analysis, V-I Characteristics of Diode - Forward\nBias, Reverse Bias, Breakdown in P -N Junction Diode, Temperature Dependence on V -I\nCharacteristics, Diode Resistance-Static Resistance, Dynamic Resistance, Reverse Resistance, Diode\nCapacitance - Transition Capacitance, Diffusion Capacitance, Energy Band Diagram of PN Junction\nDiode."
+        },
+        {
+          "unit": 2,
+          "title": "SPECIAL DIODES AND DIODE CIRCUITS:",
+          "topics": "SPECIAL DIODES:\nZener Diode - V-I Characteristics, Applications, Breakdown Mechanisms - Zener Breakdown and\nAvalanche Breakdown, Construction, Operation, Characteristics and applications of LED, LCD,\nPhotodiode, Varactor Diode and Tunnel diode.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 101 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nDIODE CIRCUITS: Clipping (limiting) circuits, Clipping at Two Independent Levels, Peak\nDetector, Clamping circuits, Basic Rectifier setup, Half Wave Rectifier, Full Wave Rectifier, Bridge\nRectifier, Inductive and Capacitive Filters, L - Section and \u03c0 - Section, Derive and c ompare rectifier\nparameters with and without filter."
+        },
+        {
+          "unit": 3,
+          "title": "BIPOLAR JUNCTION TRANSISTOR (BJT):",
+          "topics": "Bipolar Junction Transistor - Types, Symbols and Operation, Transistor Current Components,\nTransistor Equation - Relation among I C, I B, I CBO, Transistor Configurations - CB, CE and CC,\nTransistor as a switch, Transistor switching times, Transistor as an Amplifier, Characteristics of\nTransistor in Common Base Configuration, Common Emitter and Common Collector Configurations\n- Input and output characteristics, Early effect,  Transistor parameters, Current amplification factor,\nRelation among \u03b1, \u03b2, and \u03b3, Comparison of CB, CE and CC Configurations,  Punch Through/ Reach\nthrough, Typical transistor junction voltage values, Photo Transistor."
+        },
+        {
+          "unit": 4,
+          "title": "BJT BIASING AND THERMAL STABILITY:",
+          "topics": "Need For Biasing, Operating Point, Load Line Analysis - D.C. Load Line, A.C. Load Line, Biasing -\nMethods, Basic Stability, Fixed Bias, Collector -to-base Bias and Self Bias, Stabilization against\nvariations in VBE, Ic and \u03b2, Stability Factors S, S' and S'', Bias Compensation - Thermistor, Sensistor,\nDiode Compensation for variation in ICO, Thermal Runaway, Thermal Stability."
+        },
+        {
+          "unit": 5,
+          "title": "FET & OTHER TRANSISTORS:",
+          "topics": "FET Types and Symbols - JFET and MOSFET/IGFET, JFET: N - Channel and P -Channel\nConstruction, Operation, Characteristics - Drain and Transfer, Parameters - Drain Resistance,\nAmplification factor, Transconductance, Pinch-off voltage, MOSFET - Types - Depletion MOSFET\n- N Channel and P Channel,  Enhancement MOSFET - N-Channel and P -Channel, Construction,\nOperation, Characteristics - Transfer and Drain Characteristics for Depletion and Enhancement Modes\n, Analysis of MOSFETs, Comparison between JFET and MOSFET.\nSCR- Symbol, Two-Transistor version, UJT - Negative Resistance Property and Applications."
+        }
+      ]
+    },
+    {
+      "code": "R23EC2105",
+      "name": "Switching Theory and Logic Design",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "NUMBER SYSTEMS & CODES: Review of number systems - Binary, octal, Hexa",
+          "topics": "decimal numbers, binary arithmetic-binary weighted and non-weighted codes, Gray codes, Ex-\n3 Codes, Code Conversions, Error detecting and correcting codes-Hamming codes."
+        },
+        {
+          "unit": 2,
+          "title": "LOGIC OPERATIONS AND MINIMIZATION TECHNIQUES:",
+          "topics": "Logic Operations: Basic logical operations, logic gates and universal gates, Pin configurations\nof 74XX-IC series. Boolean postulates and theorems, representation of switching functions -\nstandard SOP & POS forms, Minimization Techniques: Minimization of logic functions using\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 104 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nBoolean theorems, minimization of switching functions using K -Map representation up to 6\nvariables, Tabular (Quine-McCluskey) method with only 4 variables and with single function."
+        },
+        {
+          "unit": 3,
+          "title": "DESIGN OF COMBINATIONAL CIRCUITS:",
+          "topics": "Introduction, Design procedure, Design of Adders, Subtractors and their applications,\nEncoders, Decoder, Multiplexers, Demultiplexers, code converters, Comparators. Realization\nof Boolean functions using decoders, multiplexers and de-multiplexers."
+        },
+        {
+          "unit": 4,
+          "title": "DESIGN OF SEQUENTIAL CIRCUITS:",
+          "topics": "Introduction, sequential circuits versus combinational circuits, classification of sequential\ncircuits, Latches, flip -flops and their excitation requirements. Design of sequential circuits -\ncounters and shift registers, Design of clocked sequential circuit  to detect the given sequence\nwith and without overlapping, Realization of sequential generator. Applications of counters and\nshift registers. Finite State Machines -Melay and Moore machines, capabilities and limitations\nof finite state machine. Mealy to Moore conversion and vice-versa."
+        },
+        {
+          "unit": 5,
+          "title": "INTRODUCTION TO PLDs:",
+          "topics": "Introduction to PLDs, Realization of switching functions using PROM, PLA and PAL, Basics\nstructures, comparison of PROM, PAL and PLA, Implementation of code converters,\nIntroduction to CPLDs and FPGAs."
+        }
+      ]
+    },
+    {
+      "code": "R23EC21L1",
+      "name": "Electronic Devices and Circuits Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. Understand the operation of PN diode and Zener diode.",
+          "topics": "1. Understand the operation of PN diode and Zener diode.\n2. Identify and verify the efficiency of Half wave and Full wave Rectifiers.\n3. Know the working of BJT.\n4. Know the characteristics of transistor.\n5. Know the UJT characteristics."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 1. Clipper circuit using diode",
+          "topics": "1. Clipper circuit using diode\n2. Clampingcircuitusingdiode\n3. Rectifiers (without and with c-filter)\n4. BJT Characteristics (CEConfiguration)\n5. FET Characteristics (CSConfiguration)"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 6. SCR Characteristics",
+          "topics": "6. SCR Characteristics\n7. UJT Characteristics\n8. Transistor Biasing\n9. CRO Operation and its Measurements\n10. BJT-CE Amplifier"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 11. Emitter Follower-CC Amplifier",
+          "topics": "11. Emitter Follower-CC Amplifier\n12. FET-CS Amplifier\n1. Regulated Power supplies\n2. Analog/ Digital Storage Oscilloscopes\n3. Analog/ Digital Function Generators"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 4. Digital Multi-meters",
+          "topics": "4. Digital Multi-meters\n5. Decade Resistance Boxes/Rheostats\n6. Decade Capacitance Boxes\n7. Ammeters(Analog or Digital)\n8. Voltmeters(Analog or Digital)\n9. Active& Passive Electronic Component"
+        }
+      ]
+    },
+    {
+      "code": "R23EC21L2",
+      "name": "Signals and Systems Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "mpulse",
+          "topics": "3. Unit Ramp\n4. Sinusoidal\n5. Signum\n2. Operations on signals\n1. Addition & Subtraction\n2. Multiplication & Division\n3. Maximum & minimum\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 108 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\n3. Energy and power of signals ,even and odd signals\n4. Transformation of the independent variable\n1. Shifting (Delay & Advance)\n2. Reversing\n3. Scaling\n5. Convolution & Deconvolution\n6. Correlation\n7. Fourier Series Representation\n8. Fourier Transform and Analysis of Fourier Spectrum\n9. Laplace Transforms\n10. Z-Transforms"
+        }
+      ]
+    },
+    {
+      "code": "R23EC21L3",
+      "name": "Data Structures using Python",
+      "credits": 2.0,
+      "l": 0,
+      "t": 1,
+      "p": 2,
+      "type": "skill",
+      "cat": "SEC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 1. To Implement oops concepts in Python",
+          "topics": "1. To Implement oops concepts in Python\n2. To Develop Programs on modules and Packages\n3. To Design and implementation of programs on BST and Graph Traversals."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 4. To Apply Hashing techniques in real world applications",
+          "topics": "4. To Apply Hashing techniques in real world applications\n5. To Develop the programs on stacks, trees and its applications\n1. Write a Python program for class, Flower, that has three instance variables"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 2. Develop an inheritance hierarchy based upon a Polygon  class that has",
+          "topics": "2. Develop an inheritance hierarchy based upon a Polygon  class that has\n3. Write a python program to implement Method Overloading and Method Overriding.\n4. Write a Python program to illustrate the following comprehensions: a)"
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 5. Write a Python program to generate the combinations of n distinct",
+          "topics": "5. Write a Python program to generate the combinations of n distinct\n6. Write a program for Linear Search and Binary search.\n7. Write a program to implement Bubble Sort and Selection Sort."
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 8. Write a program to implement Merge sort and Quick sort.",
+          "topics": "8. Write a program to implement Merge sort and Quick sort.\n9. Write a program to implement Stacks and Queues.\n10. Write a program to implement Singly Linked List.\n11. Write a program to implement Doubly Linked list.\n12. Write a program to implement Binary Search Tree"
+        }
+      ]
+    }
+  ]
+}

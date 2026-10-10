@@ -1,0 +1,48 @@
+{
+  "academic_year": "2026-2027",
+  "semester": "4-2",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 12.0,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23EC42PW",
+      "name": "Full Semester Internship & Project Work",
+      "credits": 12.0,
+      "l": 0,
+      "t": 0,
+      "p": 24,
+      "type": "project",
+      "cat": "PR",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Module 1: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nB.Tech IV Year II Semester"
+        },
+        {
+          "unit": 2,
+          "title": "Module 2: S.No. Category Title L T P Credits",
+          "topics": "S.No. Category Title L T P Credits\n1 Internship & Project Work Full semester Internship"
+        },
+        {
+          "unit": 3,
+          "title": "Module 3: &Project Work",
+          "topics": "&Project Work\n0 0 24 12"
+        },
+        {
+          "unit": 4,
+          "title": "Module 4: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 292 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        },
+        {
+          "unit": 5,
+          "title": "Module 5: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 293 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)"
+        }
+      ]
+    }
+  ]
+}

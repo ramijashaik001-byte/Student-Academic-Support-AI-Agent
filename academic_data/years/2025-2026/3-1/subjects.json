@@ -1,0 +1,361 @@
+{
+  "academic_year": "2025-2026",
+  "semester": "3-1",
+  "regulation": "R23",
+  "branch": "ECE",
+  "total_credits": 23.0,
+  "verification_status": "Verified Official",
+  "source": "Narasaraopeta Engineering College Autonomous R23 Syllabus",
+  "subjects": [
+    {
+      "code": "R23EC3101",
+      "name": "Analog & Digital IC Applications",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Operational Amplifier: Ideal and Practical Op -Amp, Op -Amp Characteristics, DC and AC Characteristics,",
+          "topics": "features of 741 Op-Amp, Modes of Operation-Inverting, Non-Inverting, Differential, Instrumentation Amplifier,\nAC Amplifier, Differentiators and Integrators, Comparators, Schmitt Trigger, Introduction to Voltage Regulators,\nFeatures of 723 Regulator, Three Terminal Voltage Regulators."
+        },
+        {
+          "unit": 2,
+          "title": "Op-Amp, IC-555 & IC565 Applications: Introduction to Active Filters, Characteristics of Band pass, Band reject",
+          "topics": "and All Pass Filters, Analysis of 1 st order LPF & HPF Butterworth Filters, Waveform Generators - Triangular,\nSawtooth, Square Wave, IC555 Timer -Functional Diagram, Monostable and Astable Operations, Applications,\nIC565 PLL-Block Schematic, principle and Applications."
+        },
+        {
+          "unit": 3,
+          "title": "Data Converters: Introduction, Basic DAC techniques, Different types of DACs -Weighted resistor DAC, R-2R",
+          "topics": "ladder DAC, Inverted R -2R DAC, Different Types of ADCs - Parallel Comparator Type ADC, Counter Type\nADC, Successive Approximation ADC and Dual Slope ADC, DAC and ADC Specifications."
+        },
+        {
+          "unit": 4,
+          "title": "Combinational Logic ICs: Specifications and Applications of TTL -74XX & CMOS 40XX Series ICs - Code",
+          "topics": "Converters, Decoders, LED & LCD Decoders with Drivers, Encoders, Priority Encoders, Multiplexers, De -\nmultiplexers, Priority Generators/Checkers, Parallel Binary Adder/Subtractor, Magnitude Comparators."
+        },
+        {
+          "unit": 5,
+          "title": "Sequential Logic IC's and Memories: Familiarity with commonly available 74XX & CMOS40XX Series ICs -",
+          "topics": "All Types of Flip-flops, Synchronous Counters, Decade Counters, Shift Registers.\nMemories - ROM Architecture, Types of ROMS & Applications, RAM Architecture, Static & Dynamic RAMs.\nTEXTB OOKS:\n1. Ramakanth A.Gayakwad-Op-Amps&Linear ICs,PHI,2003.\n2. FloydandJain-DigitalFundamentals,8thEd.,Pearson Education,2005."
+        }
+      ]
+    },
+    {
+      "code": "R23CC3102",
+      "name": "Digital Communications",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "PULSE DIGITAL MODULATION : Elements of digital communication systems, advantages of digital",
+          "topics": "communication systems, Elements of PCM: Sampling, Quantization & Coding, Quantization error,\nCompanding in PCM systems. Differential PCM systems (DPCM). Delta modulation, its draw backs, adaptive\ndelta modulation, comparison of PCM and DM systems, noise in PCM and DM systems, Time division\nmultiplexing, Frequency division multiplexing."
+        },
+        {
+          "unit": 2,
+          "title": "DIGITAL MODULATION TECHNIQUES: Introduction, ASK, FSK, PSK, DPSK, DEPSK, QPSK, M-ary",
+          "topics": "PSK, ASK, FSK, similarity of BFSK and BPSK."
+        },
+        {
+          "unit": 3,
+          "title": "DATA TRANSMISSION: Base band signal receiver, probability of error, the optimum filter, matched filter,",
+          "topics": "probability of error using matched filter, coherent reception, non -coherent detection of FSK, calculation of\nerror probability of ASK, BPSK, BFSK, QPSK."
+        },
+        {
+          "unit": 4,
+          "title": "LINEAR BLOCK CODES: Introduction, Matrix description of Linear Block codes, Error detection and error",
+          "topics": "correction capabilities of Linear block codes, Hamming codes, Binary cyclic codes, Algebraic structure,\nencoding, syndrome calculation, BCH codes."
+        },
+        {
+          "unit": 5,
+          "title": "CONVOLUTION CODES: Introduction, encoding of convolution codes, time domain approach, transform",
+          "topics": "domain approach. Graphical approach: state, tree and trellis diagram decoding using Viterbi algorithm, Turbo\nCodes."
+        }
+      ]
+    },
+    {
+      "code": "R23EC3103",
+      "name": "Antennas and Wave Propagation",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "ANTENNA FUNDAMENTALS: Introduction, Radiation Mechanism - Single Wire, 2 -Wire, dipoles,",
+          "topics": "Current Distribution on a thin wire antenna.  Antenna Parameters - Radiation Patterns, Patterns in Principal\nPlanes, Field Regions, Main Lobe and Side Lobes, Beam width, Radiation Intensity,  Directivity, Antenna\nEfficiency, Gain, Beam Efficiency, Bandwidth, Polarization, Input Impedance, Beam Area and Resolution,\nAntenna Apertures, Aperture Efficiency, Effective Height, illustrated Problems."
+        },
+        {
+          "unit": 2,
+          "title": "THIN LINEAR WIRE ANTENNAS:  Retarded Potentials, Radiation from Small Electric Dipole, Quarter",
+          "topics": "wave Monopole and Half wave Dipole - Current Distributions, Evaluation of Field Components, Power\nRadiated, Radiation Resistance, Radiation Efficiency, Beam width, Directivity, Effective Area and Effective\nHeight. Natural current distributions, fields and patterns of Thin Linear Center -fed Antennas of different\nlengths, Radiation Resistance at a point which is not current maximum, Antenna Theorems - Applicability\nand Proofs for equivalence of directional characteristics, Loop Antennas: Small Loops - Field Components,\nComparison of far fields of small loop and short dipole, Concept of short magnetic dipole, D and Rr relations\nfor small loops"
+        },
+        {
+          "unit": 3,
+          "title": "ANTENNA ARRAYS :  2 element arrays - different cases, Principle of Pattern Multiplication, N element",
+          "topics": "Uniform Linear Arrays - Broadside, End-fire Arrays, EFA with Increased Directivity, Derivation of their\ncharacteristics and comparison; Concept of Scanning Arrays. Directivity Relations (no derivations),  Related\nProblems. Binomial Arrays, Effects of Uniform and Non-uniform Amplitude Distributions, Design Relations\nArrays with Parasitic Elements, Yagi-Uda Arrays, Folded Dipoles and their characteristics"
+        },
+        {
+          "unit": 4,
+          "title": "BROADBAND ANTENNAS : Log periodic antenna, Basic principle, Helical Antennas - Significance,",
+          "topics": "Geometry, basic properties; Design considerations for monofilar helical antennas in Axial Mode and Normal\nModes (Qualitative Treatment).\nUHF AND MICROWAVE ANTENNAS:\nHorn Antennas   - Types, Optimum Horns, Design Characteristics of Pyramidal Horns; Paraboloidal\nReflectors: - Geometry, characteristics, types of feeds, F/D Ratio, Spill Over, Back Lobes, Aperture\nBlocking, Off-set Feeds, Case grain Feeds.\nMicrostrip Antennas -Introduction, Features, Advantages and Limitations, Rectangular Patch Antennas -\nGeometry and Parameters, Impact of different parameters on characteristics, illustrated Problems."
+        },
+        {
+          "unit": 5,
+          "title": "ANTENNA MEASUREMENTS: FRIIS Transmission Equation, Patterns Required, Set Up, Distance",
+          "topics": "Criterion, Directivity and Gain Measurements (Comparison, Absolute and 3-Antenna Methods).\nWAVE PROPAGATION: TYPES of propagations. Sky Wave Propagation - Formation of Ionospheric\nLayers and their Characteristics, Mechanism of Reflection and Refraction, Critical Frequency, MUF and Skip\nDistance; Space Wave Propagation - Mechanism, LOS and Radio Horizon, Field strength equation, illustrated\nProblems."
+        }
+      ]
+    },
+    {
+      "code": "R23EC3104",
+      "name": "Professional Elective - I (Digital System Design through HDL)",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "PE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to Verilog HDL and Gate Level Modelling:",
+          "topics": "Verilog as HDL, Levels of Design Description Basics of Concepts of Verilog, Data Types, System Task,\nCompiler directives, modules and ports. AND Gate Primitive, Module Structure, Other Gate Primitives,\nIllustrative Examples, Tri-State Gates, Array of Instances of Primitives, Additional Examples, Design of\nFlipflops with Gate Primitives, Delay."
+        },
+        {
+          "unit": 2,
+          "title": "Behavioural Modelling:",
+          "topics": "Introduction, structured processors, procedural assignments, timing controls, conditional statements,\nmulti-way branching, loops, sequential and parallel blocks, generate blocks, Design of Decoders,\nMultiplexers, Flip-flops, Registers & Counters in Behavioral model."
+        },
+        {
+          "unit": 3,
+          "title": "Modelling at Data flow Level:",
+          "topics": "Introduction, Continuous Assignment Structures, Delays and Continuous Assignments, Assignment to\nVectors, Operators, Design of Decoders, Multiplexers, Flip -flops, Registers & Counters in dataflow\nmodel, Switch Level Modelling: Introduction, Basic Transisto r Switches, CMOS Switch, Bi -directional\nGates, Time Delays with Switch Primitive delays."
+        },
+        {
+          "unit": 4,
+          "title": "FSM Design:",
+          "topics": "Functions, Tasks, User-defined, Primitives: Introduction, Function, Tasks, User-Defined Primitives (UDP),\nFSM Design (Moore and Mealy Machines), Encoding Style: From Binary to One Hot. Introduction to\nSynthesis, Synthesis of combinational logic, Synthesis of sequential logic with latches and flip -flops,\nSynthesis of Explicit and Implicit State Machines"
+        },
+        {
+          "unit": 5,
+          "title": "Components Test and Verification:",
+          "topics": "Test Bench - Combinational Circuits Testing, Sequential Circuits Testing, Test Bench Techniques, Design\nVerification, Assertion Verification"
+        }
+      ]
+    },
+    {
+      "code": "R23ECOE1",
+      "name": "Open Elective - I",
+      "credits": 3.0,
+      "l": 3,
+      "t": 0,
+      "p": 0,
+      "type": "theory",
+      "cat": "OE",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Review of Semi Conductor Physics: Hall effect, continuity equation, law of junction, Fermi Dirac function,",
+          "topics": "Fermi level in intrinsic and extrinsic Semiconductors\nJunction Diode Characteristics : Energy band diagram of PN junction Diode, Open circuited p -n junction,\nBiased p -n junction, p -n junction diode, current components in PN junction Diode, diode equation, V -I\nCharacteristics, temperature dependence on V-I characteristics, Diode resistance, Diode capacitance."
+        },
+        {
+          "unit": 2,
+          "title": "Special Semiconductor Devices : Zener Diode, Breakdown mechanisms, Zener diode applications, LED,",
+          "topics": "Varactor Diode, Photodiode, Tunnel Diode, UJT, PNPN Diode, SCR. Construction, operation and V -I\ncharacteristics.\nRectifiers and Filters: Basic Rectifier setup , half wave rectifier, full wave rectifier, bridge rectifier,\nderivations of characteristics of rectifiers, rectifier circuits -operation, input and output waveforms, Filters,\nInductor filter(Series inductor), Capacitor filter(Stunt inductor), \u03c0-Filter, comparison of various filter circuits\nin terms of ripple factors."
+        },
+        {
+          "unit": 3,
+          "title": "Transistor Characteristics:",
+          "topics": "BJT: Junction transistor, transistor current components, transistor equation, transistor configurations,\ntransistor as an amplifier, characteristics of transistor in Common Base, Common Emitter and Common\nCollector configurations, Ebers -Moll model of a transist or, punch through/ reach through, Photo transistor,\ntypical transistor junction voltage values.\nFET: FET types, construction, operation, characteristics\u00b5, g m, r dparameters, MOSFET-types, construction,\noperation, characteristics, comparison between JFET and MOSFET."
+        },
+        {
+          "unit": 4,
+          "title": "Transistor Biasing and Thermal Stabilization : Need for biasing, operating point, load line",
+          "topics": "analysis, BJT biasing- methods, basic stability, fixed bias, collector to base bias, self bias, Stabilization against\nvariations in V BE, Ic, and \u03b2, Stability factors, (S,S ',S''), Bias compensation, Thermal runaway, Thermal\nstability.FET Biasing- methods and stabilization.\nDEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING"
+        },
+        {
+          "unit": 5,
+          "title": "Small Signal Low Frequency Transistor Amplifier Models:",
+          "topics": "BJT: Two port network, Transistor hybrid model, determination of h-parameters, conversion of h-parameters,\ngeneralized analysis of transistor amplifier model using h-parameters, Analysis of CB, CE and CC amplifiers\nusing exact and approximate analysis, Comparison of transistor amplifiers.\nFET: Generalized analysis of small signal model, Analysis of CG, CS and CD amplifiers, comparison of FET\namplifiers."
+        }
+      ]
+    },
+    {
+      "code": "R23EC31L1",
+      "name": "Analog & Digital IC Applications Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 2. Basic Circuit Analysis by DR Cunninghan, Jaico Publishers.",
+          "topics": "2. Basic Circuit Analysis by DR Cunninghan, Jaico Publishers.\n3. Network Analysis and Filter Design by Chadha, Umesh Publications.\n1. OP AMP Applications - Adder, Subtractor, Comparator Circuits."
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 2. Integrator and Differentiator Circuits using IC 741.",
+          "topics": "2. Integrator and Differentiator Circuits using IC 741.\n3. Active Filter Applications - LPF, HPF (first order)\n4. Active Filter Applications - BPF, Band Reject (Wideband) and Notch Filters."
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 5. IC 741 Oscillator Circuits - Phase Shift and Wien Bridge Oscillators.",
+          "topics": "5. IC 741 Oscillator Circuits - Phase Shift and Wien Bridge Oscillators.\n6.  Function Generator using OP AMPs.\n7. IC 555 Timer - Astable & Mono-stable Operation Circuit."
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 8. Schmitt Trigger Circuits - using IC 741 and IC 555.",
+          "topics": "8. Schmitt Trigger Circuits - using IC 741 and IC 555.\n9. IC 565 - PLL Applications.\n10. IC 566 - VCO Applications."
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 11. 4 bit DAC using OP AMP.",
+          "topics": "11. 4 bit DAC using OP AMP.\n1. RPS\n2. CRO"
+        }
+      ]
+    },
+    {
+      "code": "R23EC31L2",
+      "name": "Analog and Digital Communications Lab",
+      "credits": 1.5,
+      "l": 0,
+      "t": 0,
+      "p": 3,
+      "type": "lab",
+      "cat": "PC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Lab Module 1: 3. Function Generator",
+          "topics": "3. Function Generator\n4. Multi Meters\n5. IC Trainer Kits (Optional)\n6. Bread Boards\n7. Components:- IC741, IC555, IC565, IC1496, IC723, 7805, 7809, 7912 etc.\n8. Analog IC Tester\n1. Realization of Logic Gates\n2. 3 to 8 Decoder- 74138"
+        },
+        {
+          "unit": 2,
+          "title": "Lab Module 2: 3. 8*1 Multiplexer-74151 and 2*1 De-multiplexer-74155",
+          "topics": "3. 8*1 Multiplexer-74151 and 2*1 De-multiplexer-74155\n4. 4-Bit Comparator-7485.\n5. D Flip-Flop- 7474\n6. Decade Counter- 7490\n7. Universal shift register-74194/195\n8. RAM (16*4)-74189 (read and write operations)\n2. Personal computer with necessary peripherals\n1. Amplitude Modulation-Modulation & Demodulation"
+        },
+        {
+          "unit": 3,
+          "title": "Lab Module 3: 2. AM-DSBSC-Modulation & Demodulation",
+          "topics": "2. AM-DSBSC-Modulation & Demodulation\n3. Diode Detector\n4. Pre-emphasis & De-emphasis\n5. Frequency Modulation-Modulation & Demodulation\n6. Verification of Sampling Theorem\n7. Pulse Amplitude Modulation & Demodulation\n8. PWM,PPM-Modulation & Demodulation\n1. Time division multiplexing."
+        },
+        {
+          "unit": 4,
+          "title": "Lab Module 4: 2. Frequency Division Multiplexing",
+          "topics": "2. Frequency Division Multiplexing\n3. Pulse code modulation.\n4. Differential pulse code modulation.\n5. Delta modulation.\n6. Frequency shift keying.\n7. Phase shift keying.\n8. Differential phase shift keying.\n9. Companding"
+        },
+        {
+          "unit": 5,
+          "title": "Lab Module 5: 10. Source Encoder and Decoder",
+          "topics": "10. Source Encoder and Decoder\n11. Linear Block Code-Encoder and Decoder and Binary Cyclic Code-Encoder and Decoder\n12. Convolution Code-Encoder and Decoder\n1. RPS - 0 -30V\n2. CRO - 0-20MHz.\n3. Function Generators -0-1MHz\n4. Components and Breadboards\n5. Multi meters and other meters"
+        }
+      ]
+    },
+    {
+      "code": "R23EC31L3",
+      "name": "Applications of LabVIEW for Instrumentation & Communications",
+      "credits": 2.0,
+      "l": 0,
+      "t": 1,
+      "p": 2,
+      "type": "skill",
+      "cat": "SEC",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Introduction to LabVIEW & Virtual Instrumentation: Overview of LabVIEW: Graphical programming",
+          "topics": "paradigm, LabVIEW Environment: Front panel, block diagram, data flow programming, Creating simple\nVirtual Instruments (VIs), Debugging and troubleshooting techniques, Implementing loops, case structures,\narrays, and clusters."
+        },
+        {
+          "unit": 2,
+          "title": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "Data Acquisition & Signal Processing:  Interfacing sensors (temperature, pressure, light, etc.) with\nLabVIEW, Real-time data acquisition using NI DAQ hardware, Signal generation: Sine, Square, Triangular\nwaves, Fourier Transform (FFT) for frequency analysis, Filtering techniques: Low -pass, High-pass, Band-\npass filters."
+        },
+        {
+          "unit": 3,
+          "title": "Communication System Implementation:  AM and FM Modulation/Demodulation using LabVIEW,",
+          "topics": "Simulation of Digital Modulation Schemes (ASK, PSK, FSK), Eye diagrams and constellation plots for digital\nsignals, Error detection and correction: Parity, CRC, Hamming Code."
+        },
+        {
+          "unit": 4,
+          "title": "Instrumentation & Automation Applications:",
+          "topics": "Real-time data logging and file handling (Excel/CSV), PID Controller Design for automation and process\ncontrol, Motor speed control using LabVIEW and DAQ, Signal visualization and user interface design."
+        },
+        {
+          "unit": 5,
+          "title": "Advanced Applications:",
+          "topics": "Image Processing using LabVIEW, Wireless communication using Bluetooth & Wi -Fi in LabVIEW, IoT\nIntegration-Cloud-based monitoring and remote data access, Project-based learning-"
+        }
+      ]
+    },
+    {
+      "code": "R23EC31L4",
+      "name": "Design of PCB & Antennas Lab",
+      "credits": 1.0,
+      "l": 0,
+      "t": 0,
+      "p": 2,
+      "type": "lab",
+      "cat": "ES",
+      "units": [
+        {
+          "unit": 1,
+          "title": "es and Challenges\", Open",
+          "topics": "Education Studies, 2021.\nWEB RESOURCES\n1. https://fab-coep.vlabs.ac.in/List%20of%20experiments.html\n2. https://www.innovationtraining.org/how-to-use-design-thinking-to-design-an-innovation-lab/\n3. https://www.erdster.co.in/design-thinking-lab.html"
+        }
+      ]
+    },
+    {
+      "code": "R23CC31CSP1",
+      "name": "Evaluation of Community Service Internship",
+      "credits": 2.0,
+      "l": 0,
+      "t": 0,
+      "p": 0,
+      "type": "internship",
+      "cat": "PR",
+      "units": [
+        {
+          "unit": 1,
+          "title": "Module 1: DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING",
+          "topics": "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING\nPage 136 NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)\nIII B.Tech. I SEMESTER\nS.No\nSubject\nCourse Code\nCat.\nCode\nInternal\nMarks\nExternal\nMarks"
+        },
+        {
+          "unit": 2,
+          "title": "Module 2: Total",
+          "topics": "Total\nMarks\nL\nT\nP\nCredits\n1 Analog & Digital IC\nApplications R23EC3101 PC 30 70 100 3 0 0 3\n2 Digital communications R23CC3102 PC 30 70 100 3 0 0 3\n3 Antennas and Wave\nPropagation\nR23EC3103 PC 30 70 100 3 0 0 3"
+        },
+        {
+          "unit": 3,
+          "title": "Module 3: 4",
+          "topics": "4\nDigital System Design\nthrough HDL\nR23EC3104\nPE 30 70 100 3 0 0 3\nOptical Communications\nR23EC3105 PE 30 70 100 3 0 0 3\nElectronic Measurements\nand Instrumentation\nR23EC3106 PE 30 70 100 3 0 0 3\nComputer Organization\nand Architecture"
+        },
+        {
+          "unit": 4,
+          "title": "Module 4: R23EC3107 PE 30 70 100 3 0 0 3",
+          "topics": "R23EC3107 PE 30 70 100 3 0 0 3\n5 Open Elective  OE 30 70 100 3 0 0 3\n6 Analog & Digital IC\nApplications Lab R23EC31L1 PC 30 70 100 0 0 3 1.5\n7 Analog and digital\ncommunications Lab R23EC31L2 PC 30 70 100 0 0 3 1.5\n8 Applications of Lab view\nfor Instrumentation &\nCommunications\nR23EC31L3 SEC 30 70 100 0 1 2 2\n9 Design of PCB &\nAntennas Lab R23EC31L4 ES 30 70 100 0 0 2 1"
+        },
+        {
+          "unit": 5,
+          "title": "Module 5: 10 Evaluation of",
+          "topics": "10 Evaluation of\nCommunity Service\nInternship\nR23CC31CSP1\n- - - 2\nTotal 15 1 10 23\nMC Minor Course (Student may select from the same\nspecialized minors pool) 30 70 100 3 0 3 4.5\nMC Minor Course through SWAYAM / NPTEL\n(Minimum 12 Week, 3 credit course) 30 70 100 3 0 0 3\nHC Honors Course (Student may select from the same\nHonors pool) 30 70 100 3 0 0 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+subject_code,subject_name,credits,internal_marks,external_marks,total_marks,maximum_marks,grade,grade_points,result_status,attempt_number
+23BS1T01,Linear Algebra & Calculus,3.0,26,58,84,100,A,9,PASS,1
+23BS1T02,Engineering Chemistry,3.0,24,52,76,100,B,8,PASS,1
+23ES1T01,Introduction to Programming,3.0,28,62,90,100,O,10,PASS,1
+23ES1T02,Basic Civil and Mechanical Engineering,3.0,22,48,70,100,B,8,PASS,1
+23ES1T03,Engineering Graphics,3.0,25,55,80,100,A,9,PASS,1
+23BS1L01,Engineering Chemistry Lab,1.5,14,32,46,50,O,10,PASS,1
+23ES1L01,Computer Programming Lab,1.5,14,33,47,50,O,10,PASS,1
+23ES1L02,Engineering Workshop,1.5,13,31,44,50,A,9,PASS,1
